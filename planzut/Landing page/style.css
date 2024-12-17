@@ -1,0 +1,152 @@
+body {
+    font-family: Michroma, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f8f8f8;
+    color: #000000;
+    text-align: center;
+}
+
+header {
+    margin-top: 20px;
+}
+
+.logo img{
+    position: absolute;
+    top: 20px; 
+    left: 20px; 
+    pointer-events: none; 
+    user-select: none; 
+}
+
+.title {
+    font-size: 115px;
+    font-weight: bold;
+    color: #333B84;
+    -webkit-text-stroke: #000000 5px;
+}
+
+h2 {
+    font-size: 64px;
+    color: #333B84;
+    -webkit-text-stroke: #000000 1px;
+}
+
+p {
+    font-size: 32px;
+    color: #333B84;
+    -webkit-text-stroke: #000000 1px;
+}
+
+.input-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.album-input {
+    width: 543px;
+    height: 62px;
+    text-align: center;
+    background-color: #333884;
+    border: 5px solid #008148; 
+    color: white; 
+    border-radius: 25px; 
+    font-size: 40px;
+}
+
+.album-input::placeholder{
+    color: #cccccc;
+}
+
+.send-button {
+    width: 62px;
+    height: 64px;
+    background-color: #333884;
+    border: 5px solid #008148;
+    border-radius: 50px;
+    margin-left: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.send-button img{
+    margin: 8px 0px 0px 3px;
+}
+
+.send-button:hover {
+    background-color: #272060;
+}
+
+a {
+    text-decoration: none;
+    color: #008148;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.favorites {
+    display: inline-block;
+    color: #008148;
+    cursor: pointer;
+    font-size: 48px;
+    margin-bottom: 0px;
+}
+
+.favorites:hover {
+    text-decoration: underline;
+}
+
+.check-plan span{
+    color: #333B84;
+    font-size: 48px;
+}
+
+.history {
+    font-size: 32px;
+    margin-top: 0px;
+    color: #008148;
+}
+
+.history:hover{
+    text-decoration: underline;
+}
+
+.additional-info {
+    margin: 0px 300px;
+    padding-bottom: 0px;
+}
+
+.additional-info p {
+    color: #000000;
+    font-size: 40px;
+}
+
+#text-wyliczenie{
+    color: #008148;
+}
+
+#text-filtry{
+    color: #333B84;
+}
+
+.advanced-search {
+    background-color: #333884;
+    color: #ffffff;
+    border: none;
+    border-radius: 25px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    border: 5px solid #008148;
+}
+
+.advanced-search:hover {
+    background-color: #272060;
+}

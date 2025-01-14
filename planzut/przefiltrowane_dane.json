@@ -1,0 +1,5118 @@
+{
+    "Abramek Karol": [
+        {
+            "title": "Podstawy inżynierii ruchu",
+            "date": "2025-01-07",
+            "begin": "09:15",
+            "end": "11:00",
+            "group_name": "S1IT-WY01",
+            "room": "WM 306",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Indywidualne seminarium z opiekunem naukowym 1",
+            "date": "2025-01-07",
+            "begin": "11:15",
+            "end": "15:00",
+            "group_name": "SD_1 sem_S 1_Grześkowiak",
+            "room": "WM 306",
+            "lesson_status": "seminarium",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Infrastruktura transportu",
+            "date": "2025-01-08",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "S1IT-WY01",
+            "room": "WM 302 A",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Praca przejściowa",
+            "date": "2025-01-08",
+            "begin": "10:15",
+            "end": "11:00",
+            "group_name": "S2IT-PR01",
+            "room": "WM 55",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Konsultacje - WIMiM p.314",
+            "date": "2025-01-09",
+            "begin": "10:00",
+            "end": "12:00",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Technologie regeneracji",
+            "date": "2025-01-09",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "S2IT-WY01",
+            "room": "WM 305",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        }
+    ],
+    "Abramowicz Małgorzata": [
+        {
+            "title": "Basic Steel Structures (wbiis)",
+            "date": "2025-01-07",
+            "begin": "09:15",
+            "end": "12:00",
+            "group_name": "G_wyk_01",
+            "room": "258",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Basic Steel Structures (wbiis)",
+            "date": "2025-01-07",
+            "begin": "09:15",
+            "end": "12:00",
+            "group_name": "G_wyk_WBIiIS_01",
+            "room": "258",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Basic Steel Structures (wbiis)",
+            "date": "2025-01-07",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "G_pro_01",
+            "room": "258",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Basic Steel Structures (wbiis)",
+            "date": "2025-01-07",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "G_pro_WBIiIS_01",
+            "room": "258",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        }
+    ],
+    "Adamska Iwona": [
+        {
+            "title": "Technologia roślinna",
+            "date": "2025-01-08",
+            "begin": "14:00",
+            "end": "16:45",
+            "group_name": "S1-s5-TŻ-tż-L-02",
+            "room": "PP 4",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        },
+        {
+            "title": "Podstawy technologii roślinnej",
+            "date": "2025-01-09",
+            "begin": "08:00",
+            "end": "09:45",
+            "group_name": "S1-s3-M-L-01",
+            "room": "PP 4",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        }
+    ],
+    "Adamska Olga": [],
+    "Aleksandrzak Tomasz": [
+        {
+            "title": "Fluidyzacja",
+            "date": "2025-01-07",
+            "begin": "16:00",
+            "end": "16:45",
+            "group_name": "G_aud_01  IChP IP",
+            "room": "NCH 117",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Technologii i Inżynierii Chemicznej"
+        },
+        {
+            "title": "Technologie informacyjne I",
+            "date": "2025-01-08",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "G_lab_01 Ch",
+            "room": "NCH 255",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Technologii i Inżynierii Chemicznej"
+        },
+        {
+            "title": "Technologia informacyjna",
+            "date": "2025-01-09",
+            "begin": "10:30",
+            "end": "12:00",
+            "group_name": "G_lab_01 IChp",
+            "room": "NCH 117",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Technologii i Inżynierii Chemicznej"
+        },
+        {
+            "title": "Podstawy inżynierii wydobycia i przeróbki ropy naftowej",
+            "date": "2025-01-10",
+            "begin": "10:15",
+            "end": "11:00",
+            "group_name": "G_aud_01  IChP IP",
+            "room": "NCH 239",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Technologii i Inżynierii Chemicznej"
+        }
+    ],
+    "Arlet Joanna": [
+        {
+            "title": "Historia i teoria architektury i urbanistyki-4-5",
+            "date": "2025-01-07",
+            "begin": "10:15",
+            "end": "11:00",
+            "group_name": "G_wyk_01",
+            "room": "124",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Architektury"
+        },
+        {
+            "title": "Historia i teoria architektury i urbanistyki-4-5",
+            "date": "2025-01-07",
+            "begin": "11:15",
+            "end": "13:00",
+            "group_name": "G_lab_01",
+            "room": "214",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Architektury"
+        },
+        {
+            "title": "Przedmiot humanistyczno-społeczny - Historia sztuki",
+            "date": "2025-01-07",
+            "begin": "17:15",
+            "end": "19:00",
+            "group_name": "G_w_Ph-Hs01",
+            "room": "zajęcia zdalne 1",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Architektury"
+        },
+        {
+            "title": "PHS - Historia sztuki",
+            "date": "2025-01-07",
+            "begin": "17:15",
+            "end": "19:00",
+            "group_name": "G_w_P-Hs01",
+            "room": "zajęcia zdalne 1",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Architektury"
+        }
+    ],
+    "Arlet Piotr": [
+        {
+            "title": "Geometria wykreślna",
+            "date": "2025-01-09",
+            "begin": "08:15",
+            "end": "09:00",
+            "group_name": "G_wyk_01",
+            "room": "360",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Geometria wykreślna",
+            "date": "2025-01-09",
+            "begin": "10:00",
+            "end": "10:45",
+            "group_name": "AK_wyk_01_S1",
+            "room": "Sł.17 14",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Kształtowania Środowiska i Rolnictwa"
+        },
+        {
+            "title": "Geometria wykreślna",
+            "date": "2025-01-09",
+            "begin": "10:45",
+            "end": "12:30",
+            "group_name": "AK_lab_01_S1",
+            "room": "Sł.17 15",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Kształtowania Środowiska i Rolnictwa"
+        },
+        {
+            "title": "Projektowanie dyplomowe 1 Parametryczne, Mieszkalnictwo, Ekologia",
+            "date": "2025-01-11",
+            "begin": "16:00",
+            "end": "16:45",
+            "group_name": "G_pro_01",
+            "room": "210",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Architektury"
+        }
+    ],
+    "Auriga Alicja": [
+        {
+            "title": "Zoologia",
+            "date": "2025-01-10",
+            "begin": "08:15",
+            "end": "09:45",
+            "group_name": "LAB 03 BT S1 - sem 1 ",
+            "room": "J 33\/1\/19",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Biotechnologii i Hodowli Zwierząt"
+        }
+    ],
+    "Bachtiak-Radka Emilia": [
+        {
+            "title": "Konsultacje - WIMiM p.241",
+            "date": "2025-01-09",
+            "begin": "13:00",
+            "end": "14:00",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Zarządzanie personelem",
+            "date": "2025-01-09",
+            "begin": "14:15",
+            "end": "16:00",
+            "group_name": "S1ZP-AU01",
+            "room": "WM 234",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Zarządzanie personelem",
+            "date": "2025-01-09",
+            "begin": "16:15",
+            "end": "17:00",
+            "group_name": "S1ZP-WY01",
+            "room": "WM 234",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        }
+    ],
+    "Bajwoluk Artur": [
+        {
+            "title": "Konsultacje - WIMiM p. 38",
+            "date": "2025-01-08",
+            "begin": "13:15",
+            "end": "15:00",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Wytrzymałość materiałów II",
+            "date": "2025-01-08",
+            "begin": "15:15",
+            "end": "16:00",
+            "group_name": "S1EN-LA01",
+            "room": "WM 035.",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Wytrzymałość materiałów II",
+            "date": "2025-01-09",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "S1EN-AU01",
+            "room": "WM 233",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Wytrzymałość materiałów II",
+            "date": "2025-01-09",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "S1MB-AU01",
+            "room": "WM 233",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Wytrzymałość materiałów II",
+            "date": "2025-01-09",
+            "begin": "14:15",
+            "end": "15:00",
+            "group_name": "S1MB-LA01",
+            "room": "WM 035",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Wytrzymałość materiałów II",
+            "date": "2025-01-09",
+            "begin": "15:15",
+            "end": "16:00",
+            "group_name": "S1MB-LA01",
+            "room": "WM 035",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        }
+    ],
+    "Balejko Edyta": [
+        {
+            "title": "Podstawy żywienia człowieka",
+            "date": "2025-01-07",
+            "begin": "08:00",
+            "end": "09:45",
+            "group_name": "S1-s5-TŻ-tż-W-01",
+            "room": "PP 114",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        },
+        {
+            "title": "Konsultacje - ul. PP pok. 104",
+            "date": "2025-01-07",
+            "begin": "12:00",
+            "end": "13:00",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Dietetyka",
+            "date": "2025-01-07",
+            "begin": "13:00",
+            "end": "15:45",
+            "group_name": "S1-s5-TŻ-żczid-W-03",
+            "room": "PP 114",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        },
+        {
+            "title": "Podstawy żywienia człowieka",
+            "date": "2025-01-08",
+            "begin": "12:00",
+            "end": "13:45",
+            "group_name": "S1-s5-TŻ-tż-L-02",
+            "room": "PP 309",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        },
+        {
+            "title": "Podstawy żywienia człowieka",
+            "date": "2025-01-08",
+            "begin": "14:00",
+            "end": "15:45",
+            "group_name": "S1-s5-TŻ-tż-L-01",
+            "room": "PP 309",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        },
+        {
+            "title": "Dietetyka",
+            "date": "2025-01-09",
+            "begin": "08:00",
+            "end": "09:45",
+            "group_name": "S1-s5-TŻ-żczid-L-03",
+            "room": "PP 309",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        },
+        {
+            "title": "Konsultacje - ul. PP pok. 104",
+            "date": "2025-01-09",
+            "begin": "11:00",
+            "end": "12:00",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Podstawy żywienia człowieka",
+            "date": "2025-01-11",
+            "begin": "16:05",
+            "end": "18:30",
+            "group_name": "N1-s5-TŻ-tiż-W-01",
+            "room": "PP_zaj_zdalne",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        }
+    ],
+    "Balitskii Alexander": [
+        {
+            "title": "Badania operacyjne",
+            "date": "2025-01-07",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "S1ZP-WY01",
+            "room": "WM 305",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Seminarium dyplomowe I",
+            "date": "2025-01-09",
+            "begin": "14:15",
+            "end": "17:00",
+            "group_name": "S2IT-SD01",
+            "room": "WM 322",
+            "lesson_status": "seminarium dyplomowe",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        }
+    ],
+    "Banakiewicz Michał": [
+        {
+            "title": "Matematyka (zajęcia uzupełniające)",
+            "date": "2025-01-07",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "G_aud_01",
+            "room": "431",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Algebra liniowa",
+            "date": "2025-01-07",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "S1_I_A_110",
+            "room": "WI2- 100",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Algebra liniowa",
+            "date": "2025-01-07",
+            "begin": "14:15",
+            "end": "16:00",
+            "group_name": "S1_I_A_115",
+            "room": "WI2- 100",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Mathematics II",
+            "date": "2025-01-09",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "G_wyk_01 ChE",
+            "room": "NCH 121",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Technologii i Inżynierii Chemicznej"
+        },
+        {
+            "title": "Mathematics II",
+            "date": "2025-01-09",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "G_aud_01 ChE",
+            "room": "NCH 121",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Technologii i Inżynierii Chemicznej"
+        },
+        {
+            "title": "Algebra liniowa",
+            "date": "2025-01-10",
+            "begin": "10:00",
+            "end": "11:30",
+            "group_name": "S1_I_A_124",
+            "room": "WI2- 121",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Algebra liniowa",
+            "date": "2025-01-10",
+            "begin": "12:30",
+            "end": "14:00",
+            "group_name": "S1_I_A_123",
+            "room": "WI2- 121",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Algebra liniowa",
+            "date": "2025-01-10",
+            "begin": "14:30",
+            "end": "16:00",
+            "group_name": "S1_I_A_125",
+            "room": "WI2- 121",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Informatyki"
+        }
+    ],
+    "Banaszak Szymon": [
+        {
+            "title": "Inżynieria wysokich napięć",
+            "date": "2025-01-07",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "S1 EL sem 3 L1a",
+            "room": "WE-A 117",
+            "lesson_status": "odwołane",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Inżynieria wysokich napięć",
+            "date": "2025-01-07",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "S1 EL sem 3 L1b",
+            "room": "WE-A 117",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Inżynieria wysokich napięć",
+            "date": "2025-01-07",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "S1 EL sem 3 L2a",
+            "room": "WE-A 117",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Inżynieria wysokich napięć",
+            "date": "2025-01-07",
+            "begin": "14:15",
+            "end": "16:00",
+            "group_name": "S1 EL sem 3 L2b",
+            "room": "WE-A 117",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Indywidualne seminarium z opiekunem naukowym 1",
+            "date": "2025-01-08",
+            "begin": "08:15",
+            "end": "11:00",
+            "group_name": "SD_1 sem_S 1_Zawadzki",
+            "room": "WE-A 321",
+            "lesson_status": "seminarium",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Inżynieria wysokich napięć",
+            "date": "2025-01-08",
+            "begin": "11:15",
+            "end": "13:00",
+            "group_name": "S1 EL sem 3 L1a",
+            "room": "WE-A 117",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Inżynieria wysokich napięć",
+            "date": "2025-01-09",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "S1 EL sem 3 L3b",
+            "room": "WE-A 117",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Inżynieria wysokich napięć",
+            "date": "2025-01-09",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "S1 EL sem 3 W",
+            "room": "WE-A 110",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Inżynieria wysokich napięć",
+            "date": "2025-01-09",
+            "begin": "14:15",
+            "end": "15:00",
+            "group_name": "S1 EL sem 3 A1",
+            "room": "WE-A 110",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Inżynieria wysokich napięć",
+            "date": "2025-01-09",
+            "begin": "15:15",
+            "end": "17:00",
+            "group_name": "S1 EL sem 3 L3a",
+            "room": "WE-A 117",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        }
+    ],
+    "Banaszek Andrzej": [
+        {
+            "title": "Technologia wyposażania statków",
+            "date": "2025-01-07",
+            "begin": "09:15",
+            "end": "11:00",
+            "group_name": "S1 OC s7Gw_Tws01",
+            "room": "WTM 114",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Podstawy konstrukcji maszyn 1",
+            "date": "2025-01-07",
+            "begin": "13:15",
+            "end": "14:00",
+            "group_name": "S1TRs.3Ga_Pkm101",
+            "room": "WTM 207",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Historia i geografia transportu",
+            "date": "2025-01-07",
+            "begin": "14:15",
+            "end": "16:00",
+            "group_name": "S1 LO s.1Gw_Higt01",
+            "room": "WTM 120",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Historia okrętownictwa i żeglarstwa na Pomorzu Zachodnim",
+            "date": "2025-01-08",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "S1 OCs.Gw1_HonPZ01",
+            "room": "WTM 112",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Technologia wyposażania statków",
+            "date": "2025-01-08",
+            "begin": "14:15",
+            "end": "15:00",
+            "group_name": "S1 OC s7Gp_Tws01",
+            "room": "WTM 114",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Podstawy konstrukcji maszyn 1",
+            "date": "2025-01-09",
+            "begin": "08:15",
+            "end": "09:00",
+            "group_name": "S1 CKs3Ga_Pkm101",
+            "room": "WTM 116",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Podstawy konstrukcji maszyn 1",
+            "date": "2025-01-09",
+            "begin": "09:15",
+            "end": "10:00",
+            "group_name": "S1 CKs3Gw_Pkm101",
+            "room": "WTM 112",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Podstawy konstrukcji maszyn 1",
+            "date": "2025-01-09",
+            "begin": "09:15",
+            "end": "10:00",
+            "group_name": "S1TRs3Gw_Pkm101",
+            "room": "WTM 112",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        }
+    ],
+    "Banaś Joanna": [
+        {
+            "title": "Matematyka stosowana ze statystyką 1",
+            "date": "2025-01-08",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "S1_I_11_W",
+            "room": "WI2- 126",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Konsultacje - Pok. 25 WI1",
+            "date": "2025-01-08",
+            "begin": "12:00",
+            "end": "13:30",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Matematyka stosowana ze statystyką 1",
+            "date": "2025-01-09",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "S1_I_A_115",
+            "room": "WI1- 200",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Matematyka stosowana ze statystyką 1",
+            "date": "2025-01-09",
+            "begin": "10:00",
+            "end": "11:30",
+            "group_name": "S1_I_A_114",
+            "room": "WI1- 200",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Matematyka stosowana ze statystyką 1",
+            "date": "2025-01-09",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "S1_I_A_111",
+            "room": "WI1- 200",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Matematyka stosowana ze statystyką 1",
+            "date": "2025-01-10",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "S1_I_A_113",
+            "room": "WI1- 129",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Matematyka stosowana ze statystyką 1",
+            "date": "2025-01-10",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "S1_I_A_112",
+            "room": "WI1- 129",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Matematyka stosowana ze statystyką 1",
+            "date": "2025-01-10",
+            "begin": "14:15",
+            "end": "16:00",
+            "group_name": "S1_I_A_110",
+            "room": "WI1- 129",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Matematyka stosowana ze statystyką 1",
+            "date": "2025-01-10",
+            "begin": "18:00",
+            "end": "19:30",
+            "group_name": "powt._Mszs.1_W",
+            "room": "WI1- 215",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Informatyki"
+        }
+    ],
+    "Bandur Paweł": [
+        {
+            "title": "Polish Language and Culture",
+            "date": "2025-01-07",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "SJO\/ERASMUS\/s.1\/Bandur\/l",
+            "room": "IiJM  222",
+            "lesson_status": "lektorat",
+            "wydział": "Międzywydziałowe"
+        },
+        {
+            "title": "Język niemiecki 3",
+            "date": "2025-01-07",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "SJO\/WTiICh\/S1\/s.5\/Ban+Krup\/l",
+            "room": "IiJM  222",
+            "lesson_status": "lektorat",
+            "wydział": "Międzywydziałowe"
+        },
+        {
+            "title": "Język niemiecki 3",
+            "date": "2025-01-07",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "SJO\/WEK\/S1\/s.5\/Ban+Krup\/l",
+            "room": "IiJM  222",
+            "lesson_status": "lektorat",
+            "wydział": "Międzywydziałowe"
+        },
+        {
+            "title": "Język niemiecki 3",
+            "date": "2025-01-08",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "SJO\/WBiIŚ\/S1\/BIE\/Bandur\/l",
+            "room": "IiJM  222",
+            "lesson_status": "lektorat",
+            "wydział": "Międzywydziałowe"
+        },
+        {
+            "title": "Język niemiecki 1",
+            "date": "2025-01-08",
+            "begin": "10:00",
+            "end": "12:15",
+            "group_name": "SJO\/WBiIŚ\/S1\/BIEniem\/Band\/l",
+            "room": "IiJM  222",
+            "lesson_status": "lektorat",
+            "wydział": "Międzywydziałowe"
+        },
+        {
+            "title": "Polish Language and Culture",
+            "date": "2025-01-08",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "SJO\/ERASMUS\/s.1\/Bandur\/l",
+            "room": "IiJM  222",
+            "lesson_status": "lektorat",
+            "wydział": "Międzywydziałowe"
+        },
+        {
+            "title": "Język niemiecki 3",
+            "date": "2025-01-09",
+            "begin": "08:30",
+            "end": "10:00",
+            "group_name": "SJO\/WE\/S1\/s.5\/Bandur\/\/l",
+            "room": "IiJM  222",
+            "lesson_status": "lektorat",
+            "wydział": "Międzywydziałowe"
+        },
+        {
+            "title": "Język niemiecki 1",
+            "date": "2025-01-09",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "SJO\/WTMiT\/S1\/s.3\/Bandur\/l",
+            "room": "IiJM  222",
+            "lesson_status": "lektorat",
+            "wydział": "Międzywydziałowe"
+        },
+        {
+            "title": "Język niemiecki 1",
+            "date": "2025-01-09",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "SJO\/WIMiM\/S1\/s.3\/Bandur\/l",
+            "room": "IiJM  222",
+            "lesson_status": "lektorat",
+            "wydział": "Międzywydziałowe"
+        },
+        {
+            "title": "Język niemiecki",
+            "date": "2025-01-11",
+            "begin": "08:00",
+            "end": "11:20",
+            "group_name": "SJO\/WIMIM\/N2\/s.1\/Bandur\/e",
+            "room": "IiJM  222",
+            "lesson_status": "lektorat",
+            "wydział": "Międzywydziałowe"
+        },
+        {
+            "title": "Język niemiecki",
+            "date": "2025-01-11",
+            "begin": "08:00",
+            "end": "11:20",
+            "group_name": "SJO\/WA\/N2\/s.1\/Bandur\/e",
+            "room": "IiJM  222",
+            "lesson_status": "lektorat",
+            "wydział": "Międzywydziałowe"
+        }
+    ],
+    "Baranowska Jolanta": [
+        {
+            "title": "Seminar with supervisor 1",
+            "date": "2025-01-07",
+            "begin": "12:15",
+            "end": "16:00",
+            "group_name": "DS_1 sem_Sws 1_Deacu",
+            "room": "WM 330",
+            "lesson_status": "seminarium",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Metody i narzędzia sterowania jakością",
+            "date": "2025-01-09",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "S2ZP-AU01",
+            "room": "WM 330",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Metody i narzędzia sterowania jakością",
+            "date": "2025-01-09",
+            "begin": "12:15",
+            "end": "15:00",
+            "group_name": "S2ZP-WY01",
+            "room": "WM 330",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Konsultacje - WIMiM p.17",
+            "date": "2025-01-10",
+            "begin": "10:00",
+            "end": "12:00",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Metody i narzędzia sterowania jakością",
+            "date": "2025-01-11",
+            "begin": "09:40",
+            "end": "11:20",
+            "group_name": "N2ZP-AU01",
+            "room": "WM 307",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Metody i narzędzia sterowania jakością",
+            "date": "2025-01-11",
+            "begin": "11:25",
+            "end": "13:00",
+            "group_name": "N2ZP-AU01",
+            "room": "WM 307",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        }
+    ],
+    "Baranowski Piotr": [],
+    "Barcz Anna": [
+        {
+            "title": "Konsultacje - Pok. 28 WI 1 lub pok. 12 WI1",
+            "date": "2025-01-08",
+            "begin": "10:15",
+            "end": "11:45",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Metody numeryczne 1",
+            "date": "2025-01-08",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "S1_I_L_210B",
+            "room": "WI1- 317",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Metody numeryczne 1",
+            "date": "2025-01-08",
+            "begin": "14:15",
+            "end": "16:00",
+            "group_name": "S1_I_L_212B",
+            "room": "WI1- 317",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Metody numeryczne 1",
+            "date": "2025-01-09",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "S1_I_22_W",
+            "room": "WI1- 215",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Metody numeryczne 1",
+            "date": "2025-01-09",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "S1_I_21_W",
+            "room": "WI1- 215",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Informatyki"
+        }
+    ],
+    "Barczak Agnieszka": [
+        {
+            "title": "Logistyka dystrybucji",
+            "date": "2025-01-07",
+            "begin": "09:15",
+            "end": "10:00",
+            "group_name": "S1 LO s.5 G_a_Ld02",
+            "room": "WTM 115",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Logistyka dystrybucji",
+            "date": "2025-01-07",
+            "begin": "10:15",
+            "end": "11:00",
+            "group_name": "S1 LO s.5 G_a_Ld01",
+            "room": "WTM 112",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Logistyka międzynarodowa",
+            "date": "2025-01-07",
+            "begin": "11:15",
+            "end": "12:00",
+            "group_name": "S2 TR s.2G_a_Lm01",
+            "room": "WTM 116",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Logistyka międzynarodowa",
+            "date": "2025-01-07",
+            "begin": "12:15",
+            "end": "13:00",
+            "group_name": "S2 TR s.2ZG_l_Lm01",
+            "room": "WTM 116",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Zagrożenia w transporcie",
+            "date": "2025-01-08",
+            "begin": "14:15",
+            "end": "16:00",
+            "group_name": "S1 TR s.5G_l_Zwt01",
+            "room": "WTM 116",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Logistyka dystrybucji",
+            "date": "2025-01-08",
+            "begin": "16:15",
+            "end": "17:00",
+            "group_name": "S1 LO s.5 G_a_Ld02",
+            "room": "WTM 116",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Logistyka międzynarodowa",
+            "date": "2025-01-09",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "S2 TR s.1ZG_w_Lm01",
+            "room": "WTM 319",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Logistyka międzynarodowa",
+            "date": "2025-01-09",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "S2 TR s.2G_w_Lm01",
+            "room": "WTM 319",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Zarządzanie i sterowanie systemami transportowymi",
+            "date": "2025-01-09",
+            "begin": "10:15",
+            "end": "11:00",
+            "group_name": "S2 TR s2ZGw_Zst01",
+            "room": "WTM 319",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Zarządzanie i sterowanie systemami transportowymi",
+            "date": "2025-01-09",
+            "begin": "10:15",
+            "end": "11:00",
+            "group_name": "S2 TRs.1ZGw_Zsst01",
+            "room": "WTM 319",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Zarządzanie i sterowanie systemami transportowymi",
+            "date": "2025-01-09",
+            "begin": "11:15",
+            "end": "12:00",
+            "group_name": "S2 TRs.1ZGa_Zsst01",
+            "room": "WTM 115",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Zarządzanie i sterowanie systemami transportowymi",
+            "date": "2025-01-09",
+            "begin": "12:15",
+            "end": "13:00",
+            "group_name": "S2 TR s2ZGa_Zst01",
+            "room": "WTM 115",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Logistyka międzynarodowa",
+            "date": "2025-01-10",
+            "begin": "08:15",
+            "end": "09:00",
+            "group_name": "S2 TR s.2G_a_Lm01",
+            "room": "WTM 319",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Logistyka międzynarodowa",
+            "date": "2025-01-10",
+            "begin": "09:15",
+            "end": "10:00",
+            "group_name": "S2 TR s.2ZG_l_Lm01",
+            "room": "WTM 319",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Logistyka międzynarodowa",
+            "date": "2025-01-10",
+            "begin": "10:15",
+            "end": "11:00",
+            "group_name": "S2 TR s.1ZG_a_Lm01",
+            "room": "WTM 319",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Logistyka międzynarodowa",
+            "date": "2025-01-10",
+            "begin": "11:15",
+            "end": "12:00",
+            "group_name": "S2 TR s.1ZG_l_Lm01",
+            "room": "WTM 319",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        }
+    ],
+    "Barczyk Aleksandra": [
+        {
+            "title": "Zarządzanie procesem inwestycyjnym 1",
+            "date": "2025-01-07",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "G_wyk_01",
+            "room": "305",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Organizacja i kierowanie budową",
+            "date": "2025-01-07",
+            "begin": "12:00",
+            "end": "12:45",
+            "group_name": "G_aud_01",
+            "room": "430",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Organizacja i kierowanie budową",
+            "date": "2025-01-07",
+            "begin": "13:00",
+            "end": "14:30",
+            "group_name": "G_pro_02",
+            "room": "328",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        }
+    ],
+    "Barej-Kaczmarek Emilia": [
+        {
+            "title": "Konsultacje - ul. K. Janickiego 31, p. 201",
+            "date": "2025-01-09",
+            "begin": "09:15",
+            "end": "10:00",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Arkusz kalkulacyjny w zarządzaniu",
+            "date": "2025-01-09",
+            "begin": "10:00",
+            "end": "11:30",
+            "group_name": "S1_Z_I_L4",
+            "room": "J 307",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Ekonomiczny"
+        },
+        {
+            "title": "Konsultacje - ul. K. Janickiego 31, p. 201",
+            "date": "2025-01-09",
+            "begin": "11:30",
+            "end": "12:15",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Arkusz kalkulacyjny w zarządzaniu",
+            "date": "2025-01-10",
+            "begin": "08:00",
+            "end": "09:30",
+            "group_name": "S1_Z_I_L2",
+            "room": "J 307",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Ekonomiczny"
+        },
+        {
+            "title": "Arkusz kalkulacyjny w zarządzaniu",
+            "date": "2025-01-10",
+            "begin": "09:45",
+            "end": "11:15",
+            "group_name": "S1_Z_I_L4",
+            "room": "J 307",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Ekonomiczny"
+        }
+    ],
+    "Barełkowski Robert": [
+        {
+            "title": "Zintegrowanie w projektowaniu architektonicznym",
+            "date": "2025-01-08",
+            "begin": "10:15",
+            "end": "11:00",
+            "group_name": "G_wyk_01",
+            "room": "124",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Architektury"
+        },
+        {
+            "title": "Zintegrowane Projektowanie Architektoniczne",
+            "date": "2025-01-08",
+            "begin": "11:15",
+            "end": "14:00",
+            "group_name": "G_pro_01",
+            "room": "124",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Architektury"
+        },
+        {
+            "title": "Zintegrowane Projektowanie Architektoniczne",
+            "date": "2025-01-08",
+            "begin": "14:15",
+            "end": "17:00",
+            "group_name": "G_pro_03",
+            "room": "124",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Architektury"
+        },
+        {
+            "title": "Seminarium dyplomowe Parametryczne, Mieszkalnictwo, Ekologia",
+            "date": "2025-01-08",
+            "begin": "17:15",
+            "end": "18:00",
+            "group_name": "G_sem_01",
+            "room": "118",
+            "lesson_status": "seminarium dyplomowe",
+            "wydział": "Wydział Architektury"
+        }
+    ],
+    "Bartkowiak Artur": [
+        {
+            "title": "Biochemia",
+            "date": "2025-01-07",
+            "begin": "11:00",
+            "end": "12:45",
+            "group_name": "S1-s3-M-W-01",
+            "room": "KK 118",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        },
+        {
+            "title": "Biochemia",
+            "date": "2025-01-07",
+            "begin": "11:00",
+            "end": "12:45",
+            "group_name": "S1-s3-TŻ-W-01",
+            "room": "KK 118",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        },
+        {
+            "title": "Opakowania do żywności i systemy pakujące",
+            "date": "2025-01-07",
+            "begin": "13:00",
+            "end": "14:45",
+            "group_name": "S1-s3-TŻ-W-01",
+            "room": "KK 118",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        },
+        {
+            "title": "Chemia żywności",
+            "date": "2025-01-08",
+            "begin": "14:00",
+            "end": "15:45",
+            "group_name": "S1-s1-D-W-01",
+            "room": "KK 116",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        },
+        {
+            "title": "Chemia żywności",
+            "date": "2025-01-11",
+            "begin": "08:00",
+            "end": "10:25",
+            "group_name": "N1-s1-D-W-01",
+            "room": "KK_zaj_zdalne",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        }
+    ],
+    "Bartkowiak Marcin": [
+        {
+            "title": "Ochrona własności intelektualnej",
+            "date": "2025-01-07",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "WYK KN S1 - sem 1 ",
+            "room": "IiJM CN Aud",
+            "lesson_status": "wykład",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Ochrona własności intelektualnej",
+            "date": "2025-01-07",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "WYK BT S1 - sem 1 ",
+            "room": "IiJM CN Aud",
+            "lesson_status": "wykład",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Ochrona własności intelektualnej",
+            "date": "2025-01-07",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "G_wyk_01",
+            "room": "IiJM CN Aud",
+            "lesson_status": "wykład",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Ochrona własności intelektualnej",
+            "date": "2025-01-07",
+            "begin": "10:00",
+            "end": "11:45",
+            "group_name": "WYK KN S1 - sem 1 ",
+            "room": "IiJM CN Aud",
+            "lesson_status": "wykład",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Ochrona własności intelektualnej",
+            "date": "2025-01-07",
+            "begin": "10:00",
+            "end": "11:45",
+            "group_name": "G_wyk_01",
+            "room": "IiJM CN Aud",
+            "lesson_status": "wykład",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Ochrona własności intelektualnej",
+            "date": "2025-01-07",
+            "begin": "10:00",
+            "end": "11:45",
+            "group_name": "WYK BT S1 - sem 1 ",
+            "room": "IiJM CN Aud",
+            "lesson_status": "wykład",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Bezpieczeństwo pracy i ergonomia",
+            "date": "2025-01-07",
+            "begin": "12:15",
+            "end": "13:00",
+            "group_name": "G_wyk_01 TCh",
+            "room": "SCH 109 (4)",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Technologii i Inżynierii Chemicznej"
+        },
+        {
+            "title": "Introduction to Chemical Technology",
+            "date": "2025-01-08",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "G_wyk_01 ChE",
+            "room": "SCH 27 (2)",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Technologii i Inżynierii Chemicznej"
+        }
+    ],
+    "Bartków Piotr": [
+        {
+            "title": "Sieci złożone",
+            "date": "2025-01-09",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "lato_S2_I_IO_L_gr.1",
+            "room": "WI1- 313",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Modelowanie zachowań w sieciach złożonych",
+            "date": "2025-01-09",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "lato_S2_I_SKZ_L_gr.1",
+            "room": "WI1- 308",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Konsultacje - Pok. 119 WI1",
+            "date": "2025-01-09",
+            "begin": "14:00",
+            "end": "16:00",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        }
+    ],
+    "Bartłomiejczyk Maciej": [
+        {
+            "title": "Projektowanie bezpiecznych aplikacji",
+            "date": "2025-01-11",
+            "begin": "08:00",
+            "end": "09:35",
+            "group_name": "N2_I_PO_3 sem._L",
+            "room": "WI2- 119",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Podstawy ochrony informacji",
+            "date": "2025-01-11",
+            "begin": "09:40",
+            "end": "11:20",
+            "group_name": "N1_I_L_320",
+            "room": "WI2- 119",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Podstawy ochrony informacji",
+            "date": "2025-01-11",
+            "begin": "11:25",
+            "end": "13:00",
+            "group_name": "N1_I_L_321",
+            "room": "WI2- 119",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Informatyki"
+        }
+    ],
+    "Bay Anna": [
+        {
+            "title": "Projektowanie urbanistyczne",
+            "date": "2025-01-08",
+            "begin": "16:15",
+            "end": "18:00",
+            "group_name": "G_pro_02",
+            "room": "325",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Architektury"
+        }
+    ],
+    "Becker Aneta": [
+        {
+            "title": "Wnioskowanie  statystyczne",
+            "date": "2025-01-07",
+            "begin": "12:30",
+            "end": "14:00",
+            "group_name": "S2_EK_I_L01",
+            "room": "Ż 117",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Ekonomiczny"
+        },
+        {
+            "title": "Metody ilościowe w zarządzaniu",
+            "date": "2025-01-07",
+            "begin": "14:30",
+            "end": "16:00",
+            "group_name": "S1_Z_III_L1",
+            "room": "J 303",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Ekonomiczny"
+        },
+        {
+            "title": "Ekonometria",
+            "date": "2025-01-11",
+            "begin": "08:00",
+            "end": "09:35",
+            "group_name": "N1_EK_II_L1",
+            "room": "Ż 117",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Ekonomiczny"
+        }
+    ],
+    "Bednarek Roman": [
+        {
+            "title": "Reologia gruntów w drogownictwie",
+            "date": "2025-01-10",
+            "begin": "18:30",
+            "end": "19:15",
+            "group_name": "DUiL_G_wyk_01",
+            "room": "_Zaj_zdalne08",
+            "lesson_status": "zajęcia zdalne",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Reologia gruntów w drogownictwie",
+            "date": "2025-01-11",
+            "begin": "16:50",
+            "end": "18:25",
+            "group_name": "DUiL_G_pro_01",
+            "room": "326",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        }
+    ],
+    "Bejger Romualda": [
+        {
+            "title": "Agrofizyka",
+            "date": "2025-01-07",
+            "begin": "10:00",
+            "end": "11:45",
+            "group_name": "ROL_wyk_01_S2",
+            "room": "Sł.17 _Zaj_zdalne4",
+            "lesson_status": "zajęcia zdalne",
+            "wydział": "Wydział Kształtowania Środowiska i Rolnictwa"
+        },
+        {
+            "title": "Podstawy inżynierii procesowej",
+            "date": "2025-01-07",
+            "begin": "12:30",
+            "end": "14:15",
+            "group_name": "OS_G_aud_01S1",
+            "room": "Sł.17 Sala 1 katedralna",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Kształtowania Środowiska i Rolnictwa"
+        },
+        {
+            "title": "Energetyka słoneczna 1",
+            "date": "2025-01-07",
+            "begin": "14:15",
+            "end": "16:00",
+            "group_name": "OZE_G_lab_01S1",
+            "room": "PP3 7",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Kształtowania Środowiska i Rolnictwa"
+        },
+        {
+            "title": "Energetyka słoneczna 1",
+            "date": "2025-01-08",
+            "begin": "08:00",
+            "end": "09:45",
+            "group_name": "OZE_G_aud_02S1",
+            "room": "PP1 211",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Kształtowania Środowiska i Rolnictwa"
+        },
+        {
+            "title": "Energetyka słoneczna 1",
+            "date": "2025-01-08",
+            "begin": "10:00",
+            "end": "11:45",
+            "group_name": "OZE_G_aud_01S1",
+            "room": "PP1 304",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Kształtowania Środowiska i Rolnictwa"
+        },
+        {
+            "title": "Analiza matematyczna z elementami algebry",
+            "date": "2025-01-08",
+            "begin": "14:45",
+            "end": "16:30",
+            "group_name": "UWIW_aud_01_S1",
+            "room": "PP3 8",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Kształtowania Środowiska i Rolnictwa"
+        },
+        {
+            "title": "Analiza matematyczna z elementami algebry",
+            "date": "2025-01-09",
+            "begin": "08:00",
+            "end": "09:45",
+            "group_name": "UWIW_aud_01_S1",
+            "room": "PP1 110",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Kształtowania Środowiska i Rolnictwa"
+        },
+        {
+            "title": "Agrofizyka",
+            "date": "2025-01-09",
+            "begin": "12:45",
+            "end": "14:30",
+            "group_name": "ROL_lab_01_S2",
+            "room": "PP3 7",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Kształtowania Środowiska i Rolnictwa"
+        }
+    ],
+    "Bera Aneta": [
+        {
+            "title": "Konsultacje - Pok. 109 WI1",
+            "date": "2025-01-10",
+            "begin": "10:00",
+            "end": "11:30",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        }
+    ],
+    "Bera Milena": [
+        {
+            "title": "Gospodarka a środowisko",
+            "date": "2025-01-09",
+            "begin": "09:45",
+            "end": "11:15",
+            "group_name": "S1_EK_I_A2",
+            "room": "Ż 202",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Ekonomiczny"
+        },
+        {
+            "title": "Ergonomia",
+            "date": "2025-01-10",
+            "begin": "08:15",
+            "end": "09:45",
+            "group_name": "S1_EK_II_Ergonomia_A2",
+            "room": "Ż 212",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Ekonomiczny"
+        },
+        {
+            "title": "Ergonomia",
+            "date": "2025-01-10",
+            "begin": "10:00",
+            "end": "11:30",
+            "group_name": "S1_EK_II_Ergonomia_A1",
+            "room": "Ż 212",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Ekonomiczny"
+        },
+        {
+            "title": "Konsultacje - ul. Żołnierska 47, p. 210",
+            "date": "2025-01-10",
+            "begin": "14:15",
+            "end": "15:45",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        }
+    ],
+    "Bering Sławomira": [
+        {
+            "title": "Zaawansowane metody uzdatniania wody i oczyszczania ścieków",
+            "date": "2025-01-08",
+            "begin": "15:15",
+            "end": "16:00",
+            "group_name": "G_wyk_01",
+            "room": "_Zaj_zdalne15",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Zaawansowane metody uzdatniania wody i oczyszczania ścieków",
+            "date": "2025-01-08",
+            "begin": "16:15",
+            "end": "18:00",
+            "group_name": "G_wyk_01",
+            "room": "_Zaj_zdalne14",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Wodociągi i kanalizacje-2",
+            "date": "2025-01-09",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "G_pro_02",
+            "room": "441",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Wodociągi i kanalizacje-2",
+            "date": "2025-01-09",
+            "begin": "14:15",
+            "end": "16:00",
+            "group_name": "G_pro_01",
+            "room": "441",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Wodociągi i kanalizacje-2",
+            "date": "2025-01-10",
+            "begin": "13:15",
+            "end": "15:00",
+            "group_name": "G_wyk_01",
+            "room": "422",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Podstawy wodociągów i kanalizacji",
+            "date": "2025-01-10",
+            "begin": "16:50",
+            "end": "17:35",
+            "group_name": "G_wyk_01",
+            "room": "_Zaj_zdalne02",
+            "lesson_status": "zajęcia zdalne",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Zaawansowane metody uzdatniania wody i oczyszczania ścieków",
+            "date": "2025-01-11",
+            "begin": "08:00",
+            "end": "10:20",
+            "group_name": "G_pro_01",
+            "room": "440",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        }
+    ],
+    "Berlińska Justyna": [
+        {
+            "title": "Zarządzanie produkcją i usługami",
+            "date": "2025-01-08",
+            "begin": "11:15",
+            "end": "13:00",
+            "group_name": "S1ZP-WY01",
+            "room": "WM 306",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Zarządzanie produkcją i usługami",
+            "date": "2025-01-08",
+            "begin": "13:15",
+            "end": "15:00",
+            "group_name": "S1ZP-PR02",
+            "room": "WM 309",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Organizacja i zarządzanie w transporcie",
+            "date": "2025-01-10",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "S1IT-WY01",
+            "room": "WM 307",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Organizacja i zarządzanie w transporcie",
+            "date": "2025-01-10",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "S1IT-AU01",
+            "room": "WM 307",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Podstawy zarządzania",
+            "date": "2025-01-11",
+            "begin": "08:00",
+            "end": "10:25",
+            "group_name": "N1ZP-WY01",
+            "room": "WM_zaj_zdalne",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Podstawy zarządzania",
+            "date": "2025-01-11",
+            "begin": "10:35",
+            "end": "12:10",
+            "group_name": "N1ZP-WY01",
+            "room": "WM_zaj_zdalne",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Organizacja systemów produkcyjnych",
+            "date": "2025-01-11",
+            "begin": "15:10",
+            "end": "18:25",
+            "group_name": "N2ZP-PR01",
+            "room": "WM 233",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Zintegrowane systemy informatyczne zarządzania",
+            "date": "2025-01-11",
+            "begin": "18:30",
+            "end": "20:05",
+            "group_name": "N2ZP-LA01",
+            "room": "WM 322",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        }
+    ],
+    "Biedka Andrzej": [
+        {
+            "title": "Podstawy elektroniki przemysłowej",
+            "date": "2025-01-08",
+            "begin": "09:15",
+            "end": "11:00",
+            "group_name": "S1 EL sem 5 L2",
+            "room": "WE-C 209",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Programowanie mikroprocesorów i architektura komputerów",
+            "date": "2025-01-11",
+            "begin": "16:00",
+            "end": "18:25",
+            "group_name": "N1 EL sem 3 L1",
+            "room": "WE-C 229",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Programowanie mikroprocesorów i architektura komputerów",
+            "date": "2025-01-11",
+            "begin": "18:30",
+            "end": "20:55",
+            "group_name": "N1 EL sem 3 L2",
+            "room": "WE-C 229",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        }
+    ],
+    "Biel Wioletta": [
+        {
+            "title": "Żywienie psów",
+            "date": "2025-01-09",
+            "begin": "08:00",
+            "end": "09:45",
+            "group_name": "LAB 01 KN S1- sem 3",
+            "room": "J 29\/2\/22",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Biotechnologii i Hodowli Zwierząt"
+        },
+        {
+            "title": "Żywienie psów",
+            "date": "2025-01-09",
+            "begin": "10:00",
+            "end": "11:45",
+            "group_name": "LAB 03  KN S1- sem 3",
+            "room": "J 29\/2\/22",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Biotechnologii i Hodowli Zwierząt"
+        },
+        {
+            "title": "Żywienie psów",
+            "date": "2025-01-09",
+            "begin": "12:00",
+            "end": "13:45",
+            "group_name": "LAB 02  KN S1- sem 3",
+            "room": "J 29\/2\/22",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Biotechnologii i Hodowli Zwierząt"
+        },
+        {
+            "title": "Indywidualne seminarium z opiekunem naukowym 1",
+            "date": "2025-01-10",
+            "begin": "08:15",
+            "end": "12:00",
+            "group_name": "SD_1 sem_S 1_Jacuńska",
+            "room": "J 29\/2\/22",
+            "lesson_status": "seminarium",
+            "wydział": "Wydział Biotechnologii i Hodowli Zwierząt"
+        },
+        {
+            "title": "Żywienie psów",
+            "date": "2025-01-11",
+            "begin": "08:00",
+            "end": "09:35",
+            "group_name": "G_lab_02",
+            "room": "J 29\/2\/22",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Biotechnologii i Hodowli Zwierząt"
+        },
+        {
+            "title": "Żywienie psów",
+            "date": "2025-01-11",
+            "begin": "09:40",
+            "end": "11:20",
+            "group_name": "G_lab_01",
+            "room": "J 29\/2\/22",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Biotechnologii i Hodowli Zwierząt"
+        }
+    ],
+    "Bielawski Artur": [
+        {
+            "title": "Energoelektronika",
+            "date": "2025-01-09",
+            "begin": "16:15",
+            "end": "18:00",
+            "group_name": "S1 EL sem 5 L1",
+            "room": "HT P06",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Maszyny elektryczne",
+            "date": "2025-01-10",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "S1 EL sem 5 L2a",
+            "room": "WE-A 05",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Maszyny elektryczne",
+            "date": "2025-01-10",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "S1 EL sem 5 L2b",
+            "room": "WE-A 05",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Maszyny elektryczne",
+            "date": "2025-01-10",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "S1 EL sem 5 L1a",
+            "room": "WE-A 05",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Maszyny elektryczne",
+            "date": "2025-01-10",
+            "begin": "14:15",
+            "end": "16:00",
+            "group_name": "S1 EL sem 5 L1b",
+            "room": "WE-A 05",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        }
+    ],
+    "Bienkiewicz Grzegorz": [
+        {
+            "title": "Towaroznawstwo żywności z elementami prawa żywnościowego",
+            "date": "2025-01-09",
+            "begin": "10:00",
+            "end": "11:45",
+            "group_name": "S1-s1-TŻ-W-01",
+            "room": "PP 208",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        }
+    ],
+    "Biernaczyk Marcin": [
+        {
+            "title": "Rybackie zasoby wód",
+            "date": "2025-01-07",
+            "begin": "12:00",
+            "end": "13:45",
+            "group_name": "S1-s5-IiA-W-01",
+            "room": "D - 9",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        },
+        {
+            "title": "Pierwsza pomoc przedmedyczna",
+            "date": "2025-01-08",
+            "begin": "10:00",
+            "end": "11:45",
+            "group_name": "S1-s1-D-A-02",
+            "room": "D - 9",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        },
+        {
+            "title": "Pierwsza pomoc przedmedyczna",
+            "date": "2025-01-08",
+            "begin": "12:00",
+            "end": "13:45",
+            "group_name": "S1-s1-D-A-01",
+            "room": "D - 9",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        },
+        {
+            "title": "Rybackie zasoby wód",
+            "date": "2025-01-08",
+            "begin": "15:00",
+            "end": "16:45",
+            "group_name": "S1-s5-IiA-L-01",
+            "room": "D - 9",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        }
+    ],
+    "Bizio Krzysztof": [
+        {
+            "title": "Teoria i historia architektury i urbanistyki współczesnej",
+            "date": "2025-01-10",
+            "begin": "08:15",
+            "end": "09:00",
+            "group_name": "G_wyk_01",
+            "room": "312",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Architektury"
+        },
+        {
+            "title": "Teoria i historia architektury i urbanistyki współczesnej",
+            "date": "2025-01-10",
+            "begin": "09:15",
+            "end": "11:00",
+            "group_name": "G_lab_01",
+            "room": "312",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Architektury"
+        },
+        {
+            "title": "Teoria i historia architektury i urbanistyki współczesnej",
+            "date": "2025-01-10",
+            "begin": "11:15",
+            "end": "13:00",
+            "group_name": "G_lab_02",
+            "room": "312",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Architektury"
+        },
+        {
+            "title": "Teoria i historia architektury i urbanistyki współczesnej",
+            "date": "2025-01-10",
+            "begin": "13:15",
+            "end": "15:00",
+            "group_name": "G_lab_03",
+            "room": "312",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Architektury"
+        }
+    ],
+    "Blaszke Małgorzata": [
+        {
+            "title": "Ekonomika i organizacja procesu inwestycyjnego",
+            "date": "2025-01-07",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "G_pro_01",
+            "room": "Ż 213",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Ekonomiczny"
+        },
+        {
+            "title": "Prawo budowlane i podstawy wiedzy technicznej z budownictwa",
+            "date": "2025-01-07",
+            "begin": "10:45",
+            "end": "12:15",
+            "group_name": "S2_EK_I_sp_W1",
+            "room": "Ż 107",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Ekonomiczny"
+        },
+        {
+            "title": "Ekonomika i organizacja procesu inwestycyjnego",
+            "date": "2025-01-07",
+            "begin": "13:15",
+            "end": "15:00",
+            "group_name": "G_pro_04",
+            "room": "Ż 13",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Ekonomiczny"
+        },
+        {
+            "title": "Ekonomika i organizacja procesu inwestycyjnego",
+            "date": "2025-01-07",
+            "begin": "15:15",
+            "end": "17:00",
+            "group_name": "G_pro_02",
+            "room": "Ż 13",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Ekonomiczny"
+        },
+        {
+            "title": "Prawo budowlane i podstawy wiedzy technicznej z budownictwa",
+            "date": "2025-01-08",
+            "begin": "08:00",
+            "end": "10:15",
+            "group_name": "S2_EK_I_sp_W1",
+            "room": "Ż 107",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Ekonomiczny"
+        },
+        {
+            "title": "Konsultacje - ul. Żołnierska 47, p.110",
+            "date": "2025-01-08",
+            "begin": "11:00",
+            "end": "12:30",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Ekonomika i organizacja procesu inwestycyjnego",
+            "date": "2025-01-09",
+            "begin": "11:30",
+            "end": "13:00",
+            "group_name": "G_pro_03",
+            "room": "228\/229",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Architektury"
+        },
+        {
+            "title": "Podstawy zamówień publicznych",
+            "date": "2025-01-11",
+            "begin": "12:15",
+            "end": "15:05",
+            "group_name": "N1_Ek_II_PodstZamPub_A1",
+            "room": "Ż 124",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Ekonomiczny"
+        }
+    ],
+    "Bochenek Magdalena": [
+        {
+            "title": "Site Management 1 (wbiis)",
+            "date": "2025-01-08",
+            "begin": "08:45",
+            "end": "10:15",
+            "group_name": "G_wyk_WBIiIS_01",
+            "room": "328",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Organizacja i kierowanie budową 1",
+            "date": "2025-01-08",
+            "begin": "08:45",
+            "end": "10:15",
+            "group_name": "G_wyk_01",
+            "room": "328",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Organizacja i kierowanie budową 1",
+            "date": "2025-01-08",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "G_aud_01",
+            "room": "328",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Site Management 1 (wbiis)",
+            "date": "2025-01-08",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "G_aud_WBIiIS_01",
+            "room": "328",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Construction Cost Estimating (wbiis)",
+            "date": "2025-01-08",
+            "begin": "13:15",
+            "end": "14:00",
+            "group_name": "G_wyk_01 E+ Z",
+            "room": "328",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Zarządzanie kosztami w budownictwie",
+            "date": "2025-01-08",
+            "begin": "13:15",
+            "end": "14:00",
+            "group_name": "G_wyk_01",
+            "room": "328",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Construction Cost Estimating (wbiis)",
+            "date": "2025-01-08",
+            "begin": "13:15",
+            "end": "14:00",
+            "group_name": "G_wyk_WBIiIS_01",
+            "room": "328",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Construction Cost Estimating (wbiis)",
+            "date": "2025-01-08",
+            "begin": "14:15",
+            "end": "15:00",
+            "group_name": "G_aud_01 E+ Z",
+            "room": "328",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Zarządzanie kosztami w budownictwie",
+            "date": "2025-01-08",
+            "begin": "14:15",
+            "end": "15:00",
+            "group_name": "G_aud_01",
+            "room": "328",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Construction Cost Estimating (wbiis)",
+            "date": "2025-01-08",
+            "begin": "14:15",
+            "end": "15:00",
+            "group_name": "G_aud_WBIiIS_01",
+            "room": "328",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Management of Building Projects (wbiis)",
+            "date": "2025-01-09",
+            "begin": "08:30",
+            "end": "09:15",
+            "group_name": "G_wyk_01",
+            "room": "328",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Management of Building Projects (wbiis)",
+            "date": "2025-01-09",
+            "begin": "09:15",
+            "end": "10:00",
+            "group_name": "G_pro_01",
+            "room": "328",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Applied Construction Management (wbiis)",
+            "date": "2025-01-09",
+            "begin": "10:15",
+            "end": "11:00",
+            "group_name": "G_wyk_01",
+            "room": "328",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Applied Construction Management (wbiis)",
+            "date": "2025-01-09",
+            "begin": "11:00",
+            "end": "11:45",
+            "group_name": "G_pro_01",
+            "room": "328",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Quality Management Systems (wbiis)",
+            "date": "2025-01-09",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "G_wyk_WBIiIS_01",
+            "room": "328",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Quality Management Systems (wbiis)",
+            "date": "2025-01-09",
+            "begin": "14:15",
+            "end": "16:00",
+            "group_name": "G_aud_WBIiIS_01",
+            "room": "328",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        }
+    ],
+    "Bodziony Tomasz": [
+        {
+            "title": "Podstawy fizyki",
+            "date": "2025-01-07",
+            "begin": "08:15",
+            "end": "12:00",
+            "group_name": "S1MB-AU02",
+            "room": "WM 302",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Podstawy fizyki",
+            "date": "2025-01-07",
+            "begin": "12:15",
+            "end": "16:00",
+            "group_name": "S1MB-WY01",
+            "room": "WM 323",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Podstawy fizyki",
+            "date": "2025-01-07",
+            "begin": "12:15",
+            "end": "16:00",
+            "group_name": "S1EN-WY01",
+            "room": "WM 323",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Fizyka",
+            "date": "2025-01-08",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "S1 LO s.1 G_l_F01",
+            "room": "WM W9\/1",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Fizyka",
+            "date": "2025-01-08",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "S1 LO s.1 G_l_F05",
+            "room": "WM W9\/2",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Podstawy fizyki",
+            "date": "2025-01-08",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "S1EN-AU01",
+            "room": "WM 323",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Fizyka",
+            "date": "2025-01-09",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "S1 LO s.1 G_w_F01",
+            "room": "WTM113",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Fizyka",
+            "date": "2025-01-09",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "S1 OC s.1 G_w_F01",
+            "room": "WTM113",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Fizyka",
+            "date": "2025-01-09",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "S1 TR s.1 G_w_F01",
+            "room": "WTM113",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Fizyka 1",
+            "date": "2025-01-09",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "S1 CK s.1 Gr.w Fiz1 01",
+            "room": "WTM 112",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Konsultacje - WIMiM p.12",
+            "date": "2025-01-09",
+            "begin": "12:00",
+            "end": "13:30",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Fizyka dla informatyków",
+            "date": "2025-01-10",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "S1_I_L_120B",
+            "room": "WM W9\/2",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Fizyka dla informatyków",
+            "date": "2025-01-10",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "S1_I_L_122B",
+            "room": "WM W9\/2",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Fizyka dla informatyków",
+            "date": "2025-01-10",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "S1_I_L_124B",
+            "room": "WM W9\/2",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Podstawy fizyki",
+            "date": "2025-01-10",
+            "begin": "14:15",
+            "end": "16:00",
+            "group_name": "S1EN-AU01",
+            "room": "WM 205",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        }
+    ],
+    "Bogacka Anna": [
+        {
+            "title": "Żywienie człowieka",
+            "date": "2025-01-07",
+            "begin": "12:00",
+            "end": "14:45",
+            "group_name": "S1-s1-D-L-01",
+            "room": "PP 309",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        },
+        {
+            "title": "Żywienie człowieka",
+            "date": "2025-01-07",
+            "begin": "15:00",
+            "end": "17:45",
+            "group_name": "S1-s1-D-L-04",
+            "room": "PP 309",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        },
+        {
+            "title": "Żywienie człowieka",
+            "date": "2025-01-09",
+            "begin": "08:00",
+            "end": "09:45",
+            "group_name": "S1-s1-D-W-01",
+            "room": "PP 114",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        },
+        {
+            "title": "Konsultacje - ul. PP, pok. 118",
+            "date": "2025-01-09",
+            "begin": "10:00",
+            "end": "11:30",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Podstawy immunologii",
+            "date": "2025-01-09",
+            "begin": "13:00",
+            "end": "14:45",
+            "group_name": "S1-s5-M-W-01",
+            "room": "KK 117",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        },
+        {
+            "title": "Podstawy immunologii",
+            "date": "2025-01-09",
+            "begin": "15:00",
+            "end": "16:45",
+            "group_name": "S1-s5-M-A-01",
+            "room": "KK 117",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        },
+        {
+            "title": "Żywienie człowieka",
+            "date": "2025-01-11",
+            "begin": "16:05",
+            "end": "18:30",
+            "group_name": "N1-s1-D-W-01",
+            "room": "KK_zaj_zdalne",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        }
+    ],
+    "Bogusławska-Wąs Elżbieta": [
+        {
+            "title": "Mikrobiologia",
+            "date": "2025-01-07",
+            "begin": "13:00",
+            "end": "14:45",
+            "group_name": "S1-s3-IiA-W-01",
+            "room": "KK 116",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        },
+        {
+            "title": "Mikrobiologia sanitarna z epidemiologią",
+            "date": "2025-01-08",
+            "begin": "11:00",
+            "end": "12:45",
+            "group_name": "S1-s5-M-W-01",
+            "room": "PP 114",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        },
+        {
+            "title": "Indywidualne seminarium z opiekunem naukowym 1",
+            "date": "2025-01-08",
+            "begin": "13:15",
+            "end": "17:00",
+            "group_name": "SD_1 sem_S 1_Kulczyk-Małysa",
+            "room": "PP 304",
+            "lesson_status": "seminarium",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        },
+        {
+            "title": "Mikrobiologia",
+            "date": "2025-01-09",
+            "begin": "15:00",
+            "end": "16:45",
+            "group_name": "S1-s3-IiA-L-01",
+            "room": "PP 413",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        },
+        {
+            "title": "Konsultacje - ul. PP pok. 416",
+            "date": "2025-01-10",
+            "begin": "10:00",
+            "end": "12:00",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        }
+    ],
+    "Bogusławski Bartosz": [
+        {
+            "title": "Podstawy technologii wody i ścieków-2",
+            "date": "2025-01-07",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "G_pro_02",
+            "room": "441",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Technologia wody i ścieków",
+            "date": "2025-01-09",
+            "begin": "12:15",
+            "end": "13:00",
+            "group_name": "G_pro_01",
+            "room": "412",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Melioracje wodne",
+            "date": "2025-01-09",
+            "begin": "13:15",
+            "end": "14:00",
+            "group_name": "G_pro_01",
+            "room": "412",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Melioracje wodne",
+            "date": "2025-01-09",
+            "begin": "14:15",
+            "end": "15:00",
+            "group_name": "G_wyk_01",
+            "room": "412",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Podstawy technologii wody i ścieków-2",
+            "date": "2025-01-10",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "G_pro_01",
+            "room": "441",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Podstawy wodociągów i kanalizacji",
+            "date": "2025-01-11",
+            "begin": "11:25",
+            "end": "13:00",
+            "group_name": "G_pro_01",
+            "room": "431",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        }
+    ],
+    "Bohonos Adam": [
+        {
+            "title": "Algebra",
+            "date": "2025-01-07",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "S1 TI sem 1 W",
+            "room": "WE-C 122",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Wprowadzenie do analizy matematycznej",
+            "date": "2025-01-07",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "S1 TI sem 1 W",
+            "room": "WE-C 122",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Algebra",
+            "date": "2025-01-08",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "S1 TI sem 1 A2",
+            "room": "IiJM  117",
+            "lesson_status": "audytoryjne",
+            "wydział": "Międzywydziałowe"
+        },
+        {
+            "title": "Wprowadzenie do analizy matematycznej",
+            "date": "2025-01-08",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "S1 TI sem 1 A2",
+            "room": "IiJM  117",
+            "lesson_status": "audytoryjne",
+            "wydział": "Międzywydziałowe"
+        },
+        {
+            "title": "Zajęcia uzupełniające z matematyki",
+            "date": "2025-01-08",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "S1 TI sem 1 A1",
+            "room": "IiJM  117",
+            "lesson_status": "audytoryjne",
+            "wydział": "Międzywydziałowe"
+        },
+        {
+            "title": "Matematyka 1",
+            "date": "2025-01-08",
+            "begin": "14:15",
+            "end": "16:00",
+            "group_name": "S1 OC s.1 G_a_M101",
+            "room": "WTM 112",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Matematyka 1",
+            "date": "2025-01-09",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "S1 CK s.1 Gr.aud.Mat1 01",
+            "room": "WTM 117",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Matematyka 1",
+            "date": "2025-01-09",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "S1 OC s.1 G_a_M101",
+            "room": "WTM 117",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Matematyka 1",
+            "date": "2025-01-09",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "S1 TR s.1 G_w_M101",
+            "room": "WTM113",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Matematyka 1",
+            "date": "2025-01-09",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "S1 OC s.1 G_w_M101",
+            "room": "WTM113",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Matematyka 1",
+            "date": "2025-01-09",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "S1 CK s.1 Gr.wykł.M1 01",
+            "room": "WTM113",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        }
+    ],
+    "Bojko Kamila": [
+        {
+            "title": "Ampelografia",
+            "date": "2025-01-07",
+            "begin": "14:30",
+            "end": "16:15",
+            "group_name": "UWIW_aud_01_S1",
+            "room": "Sł.17 152",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Kształtowania Środowiska i Rolnictwa"
+        },
+        {
+            "title": "Przetwórstwo owoców",
+            "date": "2025-01-08",
+            "begin": "10:00",
+            "end": "11:45",
+            "group_name": "UWIW_lab_01_S1",
+            "room": "Sł.17 08",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Kształtowania Środowiska i Rolnictwa"
+        },
+        {
+            "title": "Przemysł spożywczy a ochrona środowiska",
+            "date": "2025-01-09",
+            "begin": "10:25",
+            "end": "12:40",
+            "group_name": "OS_G_aud_01S1",
+            "room": "Sł.17 08",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Kształtowania Środowiska i Rolnictwa"
+        }
+    ],
+    "Bomba Robert": [
+        {
+            "title": "Język angielski 3",
+            "date": "2025-01-09",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "SJO\/WE\/S1\/s.5\/Bomba\/l",
+            "room": "IiJM  314 (315)",
+            "lesson_status": "lektorat",
+            "wydział": "Międzywydziałowe"
+        },
+        {
+            "title": "Język angielski 1",
+            "date": "2025-01-09",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "SJO\/WTMiT\/S1\/s.3\/Bomba\/l",
+            "room": "IiJM  314 (315)",
+            "lesson_status": "lektorat",
+            "wydział": "Międzywydziałowe"
+        },
+        {
+            "title": "Język angielski 3",
+            "date": "2025-01-09",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "SJO\/WTMiT\/S1\/s.5\/Bomba\/\/l",
+            "room": "IiJM  314 (315)",
+            "lesson_status": "lektorat",
+            "wydział": "Międzywydziałowe"
+        },
+        {
+            "title": "Język angielski 2",
+            "date": "2025-01-09",
+            "begin": "14:15",
+            "end": "16:00",
+            "group_name": "SJO\/WI\/s.5\/Bomba\/l",
+            "room": "WI2- 121",
+            "lesson_status": "lektorat",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Język angielski",
+            "date": "2025-01-11",
+            "begin": "08:00",
+            "end": "11:20",
+            "group_name": "SJO\/WIMIM\/N2\/s.1\/Bomba\/e",
+            "room": "IiJM  316",
+            "lesson_status": "lektorat",
+            "wydział": "Międzywydziałowe"
+        }
+    ],
+    "Bondarewicz Malwina": [
+        {
+            "title": "Konsultacje - p. 301WI2",
+            "date": "2025-01-10",
+            "begin": "10:00",
+            "end": "12:00",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        }
+    ],
+    "Bonisławska Małgorzata": [
+        {
+            "title": "Chemia ogólna i nieorganiczna",
+            "date": "2025-01-07",
+            "begin": "13:00",
+            "end": "14:45",
+            "group_name": "S1-s1-TŻ-L-01",
+            "room": "B  - D9",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        }
+    ],
+    "Borsukiewicz Aleksandra": [
+        {
+            "title": "Thermodynamics (wimim)",
+            "date": "2025-01-08",
+            "begin": "08:30",
+            "end": "10:00",
+            "group_name": "S1WY-WY01-Th",
+            "room": "KTE 9",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Thermodynamics (wimim)",
+            "date": "2025-01-08",
+            "begin": "10:15",
+            "end": "11:45",
+            "group_name": "S1WY-AU01-Th",
+            "room": "KTE 9",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Konsultacje - WIMiM KTE 205, forma: Ms Teams",
+            "date": "2025-01-08",
+            "begin": "12:00",
+            "end": "13:30",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Energia odpadowa",
+            "date": "2025-01-09",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "S1EN-WY01",
+            "room": "KTE 9",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Paliwa oleje i smary w transporcie",
+            "date": "2025-01-09",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "S1IT-WY01",
+            "room": "KTE 9",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        }
+    ],
+    "Bortko Kamil": [
+        {
+            "title": "Seminarium dyplomowe",
+            "date": "2025-01-08",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "lato_S2_I_SKZ_S",
+            "room": "WI1- 206",
+            "lesson_status": "seminarium dyplomowe",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Konsultacje - Pok. 117 WI1",
+            "date": "2025-01-08",
+            "begin": "14:00",
+            "end": "16:00",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Projektowanie zorientowane na człowieka",
+            "date": "2025-01-09",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "lato_S2_I_SKZ_L_gr.1",
+            "room": "WI1- 302",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Projektowanie zorientowane na człowieka",
+            "date": "2025-01-09",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "lato_S2_I_SKZ_W",
+            "room": "WI1- 128",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Konsultacje - soboty zjazdowe pok. 117 WI1",
+            "date": "2025-01-11",
+            "begin": "11:30",
+            "end": "13:30",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Zespołowy projekt badawczy",
+            "date": "2025-01-11",
+            "begin": "13:30",
+            "end": "15:55",
+            "group_name": "N2_I_Zpb_gr.2_P",
+            "room": "WI1- 300",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Informatyki"
+        }
+    ],
+    "Bortnowska Grażyna": [
+        {
+            "title": "Konsultacje - ul. PP pok. 209",
+            "date": "2025-01-07",
+            "begin": "12:00",
+            "end": "14:00",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Technologia gastronomiczna",
+            "date": "2025-01-07",
+            "begin": "15:00",
+            "end": "16:45",
+            "group_name": "S1-s5-TŻ-tż-W-01",
+            "room": "PP 208",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        },
+        {
+            "title": "Technologia gastronomiczna",
+            "date": "2025-01-09",
+            "begin": "08:00",
+            "end": "10:45",
+            "group_name": "S1-s5-TŻ-tż-L-01",
+            "room": "PP 10",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        },
+        {
+            "title": "Technologia gastronomiczna",
+            "date": "2025-01-09",
+            "begin": "11:00",
+            "end": "13:45",
+            "group_name": "S1-s5-TŻ-tż-L-02",
+            "room": "PP 10",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        },
+        {
+            "title": "Technologia gastronomiczna",
+            "date": "2025-01-11",
+            "begin": "13:30",
+            "end": "15:55",
+            "group_name": "N1-s5-TŻ-tiż-W-01",
+            "room": "PP_zaj_zdalne",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        }
+    ],
+    "Borucka-Lipska Jolanta": [
+        {
+            "title": "Nawierzchnie betonowe",
+            "date": "2025-01-11",
+            "begin": "18:30",
+            "end": "20:05",
+            "group_name": "DUiL_G_wyk_01",
+            "room": "326",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        }
+    ],
+    "Borziak Olga": [
+        {
+            "title": "Materiały budowlane",
+            "date": "2025-01-07",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "G_lab_03",
+            "room": "003",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Materiały budowlane",
+            "date": "2025-01-07",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "G_lab_07",
+            "room": "003",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Materiały i wyroby budowlane",
+            "date": "2025-01-07",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "G_lab_02",
+            "room": "423",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Materiały budowlane",
+            "date": "2025-01-07",
+            "begin": "14:15",
+            "end": "16:00",
+            "group_name": "G_lab_02",
+            "room": "003",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Materiały budowlane",
+            "date": "2025-01-08",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "G_lab_04",
+            "room": "423",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Materiały budowlane",
+            "date": "2025-01-08",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "G_lab_02",
+            "room": "003",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Materiały budowlane",
+            "date": "2025-01-08",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "G_lab_08",
+            "room": "003",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Materiały budowlane",
+            "date": "2025-01-08",
+            "begin": "14:15",
+            "end": "16:00",
+            "group_name": "G_lab_06",
+            "room": "003",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Materiały i wyroby budowlane",
+            "date": "2025-01-09",
+            "begin": "16:00",
+            "end": "17:30",
+            "group_name": "G_lab_02",
+            "room": "423",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        }
+    ],
+    "Bosacka Monika": [
+        {
+            "title": "Chemia ogólna i (bio)nieorganiczna",
+            "date": "2025-01-08",
+            "begin": "14:15",
+            "end": "16:00",
+            "group_name": "G_aud_01 IwM",
+            "room": "NCH Aud I",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Technologii i Inżynierii Chemicznej"
+        },
+        {
+            "title": "Indywidualne seminarium z opiekunem naukowym 1",
+            "date": "2025-01-08",
+            "begin": "16:15",
+            "end": "20:00",
+            "group_name": "SD_1 sem_S 1_Ambroziak",
+            "room": "NCH Aud I",
+            "lesson_status": "seminarium",
+            "wydział": "Wydział Technologii i Inżynierii Chemicznej"
+        },
+        {
+            "title": "Chemia ogólna",
+            "date": "2025-01-09",
+            "begin": "11:15",
+            "end": "12:00",
+            "group_name": "G_wyk_01 Ch",
+            "room": "NCH 118",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Technologii i Inżynierii Chemicznej"
+        },
+        {
+            "title": "Chemia ogólna i (bio)nieorganiczna",
+            "date": "2025-01-09",
+            "begin": "12:15",
+            "end": "13:00",
+            "group_name": "G_lab_01 IwM",
+            "room": "NCH 211",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Technologii i Inżynierii Chemicznej"
+        },
+        {
+            "title": "Chemia ogólna",
+            "date": "2025-01-10",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "G_aud_01 Ch",
+            "room": "NCH Aud I",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Technologii i Inżynierii Chemicznej"
+        },
+        {
+            "title": "Chemia ogólna",
+            "date": "2025-01-10",
+            "begin": "13:15",
+            "end": "15:00",
+            "group_name": "G_wyk_01 Ch",
+            "room": "NCH Aud I",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Technologii i Inżynierii Chemicznej"
+        }
+    ],
+    "Brasel Michał": [
+        {
+            "title": "Teoria sterowania",
+            "date": "2025-01-09",
+            "begin": "14:15",
+            "end": "16:00",
+            "group_name": "S1 AR sem 3 L3",
+            "room": "WE-C 427",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Teoria sterowania",
+            "date": "2025-01-10",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "S1 AR sem 3 L4",
+            "room": "WE-C 427",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Teoria sterowania",
+            "date": "2025-01-10",
+            "begin": "14:15",
+            "end": "16:00",
+            "group_name": "S1 AR sem 3 L2",
+            "room": "WE-C 427",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        }
+    ],
+    "Brelik Agnieszka": [
+        {
+            "title": "Basis for Economic Policy (wekon)",
+            "date": "2025-01-09",
+            "begin": "08:00",
+            "end": "09:30",
+            "group_name": "S1_WM_BasisforEconomicPolicyP",
+            "room": "Ż 125",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Ekonomiczny"
+        },
+        {
+            "title": "Gospodarka regionalna",
+            "date": "2025-01-09",
+            "begin": "09:45",
+            "end": "11:15",
+            "group_name": "S1_EK_II_A1",
+            "room": "Ż 14",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Ekonomiczny"
+        },
+        {
+            "title": "Business Economics (wekon)",
+            "date": "2025-01-09",
+            "begin": "12:30",
+            "end": "14:45",
+            "group_name": "S1_WM_BusinessEconomicsP",
+            "room": "Ż 125",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Ekonomiczny"
+        },
+        {
+            "title": "Metody badań rynkowych",
+            "date": "2025-01-10",
+            "begin": "08:15",
+            "end": "10:30",
+            "group_name": "S1_EK_III_MBR_A1",
+            "room": "Ż 107",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Ekonomiczny"
+        },
+        {
+            "title": "Gospodarka regionalna",
+            "date": "2025-01-11",
+            "begin": "09:40",
+            "end": "12:10",
+            "group_name": "N1_EK_II_W1",
+            "room": "Ż 124",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Ekonomiczny"
+        }
+    ],
+    "Brocki Wojciech": [
+        {
+            "title": "Ochrona własności intelektualnej",
+            "date": "2025-01-07",
+            "begin": "08:00",
+            "end": "09:45",
+            "group_name": "S2-s2-TŻ-W-03",
+            "room": "KK 116",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        },
+        {
+            "title": "Konsultacje - ul. KK, pok. 103",
+            "date": "2025-01-08",
+            "begin": "13:30",
+            "end": "15:00",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Zarządzanie i marketing",
+            "date": "2025-01-08",
+            "begin": "15:00",
+            "end": "17:45",
+            "group_name": "S2-s2-TŻ-W-03",
+            "room": "PP 114",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        }
+    ],
+    "Brodowska Aleksandra ": [],
+    "Brzozowski Piotr": [
+        {
+            "title": "Basic Concrete Structures (wbiis)",
+            "date": "2025-01-07",
+            "begin": "14:15",
+            "end": "16:00",
+            "group_name": "G_wyk_WBIiIS_01",
+            "room": "133",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Basic Concrete Structures (wbiis)",
+            "date": "2025-01-07",
+            "begin": "14:15",
+            "end": "16:00",
+            "group_name": "G_wyk_01",
+            "room": "133",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Basic Concrete Structures (wbiis)",
+            "date": "2025-01-07",
+            "begin": "16:15",
+            "end": "18:00",
+            "group_name": "G_pro_WBIiIS_01",
+            "room": "133",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Basic Concrete Structures (wbiis)",
+            "date": "2025-01-07",
+            "begin": "16:15",
+            "end": "18:00",
+            "group_name": "G_pro_01",
+            "room": "133",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Technologia betonu",
+            "date": "2025-01-09",
+            "begin": "08:15",
+            "end": "09:00",
+            "group_name": "G_lab_02",
+            "room": "354",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Technologia betonu",
+            "date": "2025-01-09",
+            "begin": "09:15",
+            "end": "10:00",
+            "group_name": "G_lab_04",
+            "room": "354",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Technologia betonu",
+            "date": "2025-01-09",
+            "begin": "10:15",
+            "end": "11:00",
+            "group_name": "G_lab_01",
+            "room": "354",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Technologia betonu",
+            "date": "2025-01-09",
+            "begin": "13:15",
+            "end": "14:00",
+            "group_name": "G_lab_03",
+            "room": "354",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        }
+    ],
+    "Buczkowski Ryszard": [
+        {
+            "title": "Optymalizacja procesów produkcyjnych",
+            "date": "2025-01-07",
+            "begin": "10:15",
+            "end": "11:00",
+            "group_name": "S2LOs3ZG_l_Opp01",
+            "room": "WTM 511",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Optymalizacja procesów produkcyjnych",
+            "date": "2025-01-07",
+            "begin": "11:15",
+            "end": "12:00",
+            "group_name": "S2LOs3ZGw_Opp01",
+            "room": "WTM 511",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Modelowanie procesów transportowych",
+            "date": "2025-01-07",
+            "begin": "13:15",
+            "end": "15:00",
+            "group_name": "S2 TRs.1ZGp_Mpt01",
+            "room": "WTM 511",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        }
+    ],
+    "Bucław Mateusz": [
+        {
+            "title": "Żywienie zwierząt i paszoznawstwo",
+            "date": "2025-01-08",
+            "begin": "12:00",
+            "end": "13:45",
+            "group_name": "G_lab_01",
+            "room": "J 29\/1\/18",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Biotechnologii i Hodowli Zwierząt"
+        },
+        {
+            "title": "Żywienie zwierząt i paszoznawstwo",
+            "date": "2025-01-10",
+            "begin": "12:00",
+            "end": "13:45",
+            "group_name": "G_lab_01",
+            "room": "J 29\/2\/22",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Biotechnologii i Hodowli Zwierząt"
+        }
+    ],
+    "Budziński Bartosz": [
+        {
+            "title": "Budownictwo komunikacyjne",
+            "date": "2025-01-08",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "G_pro_02",
+            "room": "305",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Budownictwo komunikacyjne",
+            "date": "2025-01-08",
+            "begin": "13:15",
+            "end": "15:00",
+            "group_name": "G_pro_01",
+            "room": "439",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Budownictwo komunikacyjne",
+            "date": "2025-01-09",
+            "begin": "11:15",
+            "end": "13:00",
+            "group_name": "G_pro_04",
+            "room": "439",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Budownictwo komunikacyjne",
+            "date": "2025-01-09",
+            "begin": "13:15",
+            "end": "15:00",
+            "group_name": "G_pro_03",
+            "room": "439",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Budownictwo komunikacyjne",
+            "date": "2025-01-11",
+            "begin": "13:30",
+            "end": "15:05",
+            "group_name": "G_pro_01",
+            "room": "431",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Budownictwo komunikacyjne",
+            "date": "2025-01-11",
+            "begin": "15:10",
+            "end": "16:45",
+            "group_name": "G_pro_02",
+            "room": "431",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        }
+    ],
+    "Burak Dariusz": [
+        {
+            "title": "Język Java",
+            "date": "2025-01-07",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "PO1_J.Java_L_220A",
+            "room": "WI1- 011",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Język Java",
+            "date": "2025-01-07",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "PO1_J.Java_L_220B",
+            "room": "WI1- 011",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Język Java",
+            "date": "2025-01-10",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "PO1_J.Java_L_220A",
+            "room": "WI1- 302",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Konsultacje - Pok. 120 WI1",
+            "date": "2025-01-10",
+            "begin": "12:00",
+            "end": "13:30",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Język Java",
+            "date": "2025-01-10",
+            "begin": "14:15",
+            "end": "16:00",
+            "group_name": "PO1_J.Java_L_220B",
+            "room": "WI1- 317",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Informatyki"
+        }
+    ],
+    "Burak Maciej": [
+        {
+            "title": "Bezpieczeństwo i infrastruktura sieciowa",
+            "date": "2025-01-07",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "S1 AR sem 1 L2",
+            "room": "WE-C 302",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Bezpieczeństwo i infrastruktura sieciowa",
+            "date": "2025-01-07",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "S1 AR sem 1 L3",
+            "room": "WE-C 302",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Bezpieczeństwo systemów teleinformatycznych",
+            "date": "2025-01-08",
+            "begin": "08:30",
+            "end": "10:00",
+            "group_name": "S1 TI sem 5 L1",
+            "room": "WE-C 302",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Bezpieczeństwo systemów teleinformatycznych",
+            "date": "2025-01-08",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "S1 TI sem 5 L2",
+            "room": "WE-C 302",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Protokoły komunikacyjne w układach mechatronicznych",
+            "date": "2025-01-08",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "S2ME-LA01",
+            "room": "WE-C 302",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Informatyka przemysłowa",
+            "date": "2025-01-08",
+            "begin": "16:15",
+            "end": "17:00",
+            "group_name": "S1 AR sem 3 W",
+            "room": "WE-C 122",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Informatyka przemysłowa",
+            "date": "2025-01-09",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "S1 AR sem 3 L3",
+            "room": "WE-C 302",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Informatyka przemysłowa",
+            "date": "2025-01-09",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "S1 AR sem 3 L1",
+            "room": "WE-C 302",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Informatyka przemysłowa",
+            "date": "2025-01-09",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "S1 AR sem 3 L4",
+            "room": "WE-C 302",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Informatyka przemysłowa",
+            "date": "2025-01-10",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "S1 AR sem 3 L1",
+            "room": "WE-C 302",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Informatyka przemysłowa",
+            "date": "2025-01-10",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "S1 AR sem 3 L2",
+            "room": "WE-C 302",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Informatyka przemysłowa",
+            "date": "2025-01-10",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "S1 AR sem 3 W",
+            "room": "WE-C 301",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Informatyka przemysłowa",
+            "date": "2025-01-10",
+            "begin": "16:15",
+            "end": "18:00",
+            "group_name": "S1 AR sem 3 L3",
+            "room": "WE-C 302",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        }
+    ],
+    "Bury Marek": [
+        {
+            "title": "Chemiczne środki ochrony roślin",
+            "date": "2025-01-08",
+            "begin": "10:00",
+            "end": "11:45",
+            "group_name": "ROL_lab_01_S2",
+            "room": "PP3 9",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Kształtowania Środowiska i Rolnictwa"
+        },
+        {
+            "title": "Dobór systemu uprawy roli",
+            "date": "2025-01-08",
+            "begin": "12:00",
+            "end": "13:30",
+            "group_name": "ROL_aud_01_S2",
+            "room": "PP3 9",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Kształtowania Środowiska i Rolnictwa"
+        },
+        {
+            "title": "Chemiczne środki ochrony roślin",
+            "date": "2025-01-08",
+            "begin": "13:30",
+            "end": "15:15",
+            "group_name": "ROL_lab_01_S2",
+            "room": "PP3 9",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Kształtowania Środowiska i Rolnictwa"
+        },
+        {
+            "title": "Seminarium inżynierskie",
+            "date": "2025-01-09",
+            "begin": "10:00",
+            "end": "12:30",
+            "group_name": "ROL_sem_01_S1",
+            "room": "PP3 9",
+            "lesson_status": "seminarium",
+            "wydział": "Wydział Kształtowania Środowiska i Rolnictwa"
+        },
+        {
+            "title": "Ogólna uprawa roślin",
+            "date": "2025-01-11",
+            "begin": "10:35",
+            "end": "14:15",
+            "group_name": "R_G_wyk_01_N1",
+            "room": "Sł.17 _Zaj_zdalne",
+            "lesson_status": "zajęcia zdalne",
+            "wydział": "Wydział Kształtowania Środowiska i Rolnictwa"
+        }
+    ],
+    "Bąk Iwona": [
+        {
+            "title": "Konsultacje - ul. Żołnierska 47, p. 16",
+            "date": "2025-01-09",
+            "begin": "12:30",
+            "end": "14:00",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        }
+    ],
+    "Bąkowska Małgorzata": [
+        {
+            "title": "Pet sitting i hotele dla zwierząt",
+            "date": "2025-01-08",
+            "begin": "10:30",
+            "end": "12:00",
+            "group_name": "G_l_Psihdz02",
+            "room": "J 29\/3\/19 komp.",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Biotechnologii i Hodowli Zwierząt"
+        },
+        {
+            "title": "Pet sitting i hotele dla zwierząt",
+            "date": "2025-01-08",
+            "begin": "14:00",
+            "end": "15:45",
+            "group_name": "G_l_Psihdz01",
+            "room": "J 29\/3\/20 komp.",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Biotechnologii i Hodowli Zwierząt"
+        }
+    ],
+    "Będzik Beata": [
+        {
+            "title": "Podstawy ekonomii i zarządzania",
+            "date": "2025-01-08",
+            "begin": "14:00",
+            "end": "16:45",
+            "group_name": "OZE_wyk_01_S1",
+            "room": "PP1 311",
+            "lesson_status": "odwołane",
+            "wydział": "Wydział Kształtowania Środowiska i Rolnictwa"
+        },
+        {
+            "title": "Makroekonomia",
+            "date": "2025-01-09",
+            "begin": "10:00",
+            "end": "11:30",
+            "group_name": "S2_EK_I_A01",
+            "room": "Ż 214",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Ekonomiczny"
+        },
+        {
+            "title": "Konsultacje - ul. Żołnierska 47, p.119",
+            "date": "2025-01-09",
+            "begin": "11:30",
+            "end": "12:15",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Podstawy ekonomii i zarządzania",
+            "date": "2025-01-09",
+            "begin": "12:00",
+            "end": "14:15",
+            "group_name": "OZE_wyk_01_S1",
+            "room": "Sł.17 58",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Kształtowania Środowiska i Rolnictwa"
+        },
+        {
+            "title": "Konsultacje - ul. Żołnierska 47, p.119",
+            "date": "2025-01-10",
+            "begin": "12:15",
+            "end": "13:00",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        }
+    ],
+    "Błaszak Magdalena": [
+        {
+            "title": "Bezpieczeństwo i higiena pracy",
+            "date": "2025-01-08",
+            "begin": "12:00",
+            "end": "13:45",
+            "group_name": "OS_wyk_01_S1",
+            "room": "PP1 311",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Kształtowania Środowiska i Rolnictwa"
+        },
+        {
+            "title": "Bezpieczeństwo i higiena pracy",
+            "date": "2025-01-08",
+            "begin": "12:00",
+            "end": "13:45",
+            "group_name": "UWIW_wyk_01_S1",
+            "room": "PP1 311",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Kształtowania Środowiska i Rolnictwa"
+        },
+        {
+            "title": "Bezpieczeństwo i higiena pracy",
+            "date": "2025-01-09",
+            "begin": "08:00",
+            "end": "09:45",
+            "group_name": "OS_aud_01_S1",
+            "room": "Sł.17 15",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Kształtowania Środowiska i Rolnictwa"
+        },
+        {
+            "title": "Szkolenie - Bezpieczeństwo i higiena pracy",
+            "date": "2025-01-09",
+            "begin": "10:00",
+            "end": "11:45",
+            "group_name": "OZE_wyk_01_S1",
+            "room": "Sł.17 58",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Kształtowania Środowiska i Rolnictwa"
+        }
+    ],
+    "Błaszczyk Barbara": [
+        {
+            "title": "Podstawy diagnostyki ultrasonograficznej",
+            "date": "2025-01-07",
+            "begin": "08:00",
+            "end": "09:30",
+            "group_name": "G_a_Pdu01",
+            "room": "J 29\/0\/22",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Biotechnologii i Hodowli Zwierząt"
+        },
+        {
+            "title": "Embriologia",
+            "date": "2025-01-07",
+            "begin": "12:15",
+            "end": "13:00",
+            "group_name": "G_wyk_01",
+            "room": "J 29\/3\/09",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Biotechnologii i Hodowli Zwierząt"
+        },
+        {
+            "title": "Inżynieria w rozrodzie zwierząt",
+            "date": "2025-01-08",
+            "begin": "12:00",
+            "end": "13:45",
+            "group_name": "G_wyk_01",
+            "room": "J 29\/3\/06",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Biotechnologii i Hodowli Zwierząt"
+        },
+        {
+            "title": "Zachowanie rozrodcze w kształtowaniu populacji",
+            "date": "2025-01-09",
+            "begin": "10:00",
+            "end": "11:45",
+            "group_name": "G_w_Zrwkp01",
+            "room": "J 32\/0\/21",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Biotechnologii i Hodowli Zwierząt"
+        },
+        {
+            "title": "Inżynieria w rozrodzie zwierząt",
+            "date": "2025-01-09",
+            "begin": "12:00",
+            "end": "13:45",
+            "group_name": "G_wyk_01",
+            "room": "J 29\/3\/09",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Biotechnologii i Hodowli Zwierząt"
+        },
+        {
+            "title": "Embriologia",
+            "date": "2025-01-10",
+            "begin": "08:00",
+            "end": "16:00",
+            "group_name": "G_lab_01",
+            "room": "Teren1",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Biotechnologii i Hodowli Zwierząt"
+        }
+    ],
+    "Błaszkowski Janusz": [
+        {
+            "title": "Monitoring i diagnostyka fitopatologiczna",
+            "date": "2025-01-07",
+            "begin": "15:00",
+            "end": "15:45",
+            "group_name": "ROL_wyk_01_S2",
+            "room": "Sł.17 _Zaj_zdalne",
+            "lesson_status": "zajęcia zdalne",
+            "wydział": "Wydział Kształtowania Środowiska i Rolnictwa"
+        },
+        {
+            "title": "Fitopatologia",
+            "date": "2025-01-08",
+            "begin": "14:30",
+            "end": "16:15",
+            "group_name": "UWIW_wyk_01_S1",
+            "room": "Sł.17 112",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Kształtowania Środowiska i Rolnictwa"
+        },
+        {
+            "title": "Monitoring i diagnostyka fitopatologiczna",
+            "date": "2025-01-09",
+            "begin": "15:00",
+            "end": "16:45",
+            "group_name": "ROL_lab_01_S2",
+            "room": "Sł.17 112",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Kształtowania Środowiska i Rolnictwa"
+        }
+    ],
+    "Błaszyński Piotr": [
+        {
+            "title": "Konsultacje - p. 111 WI2",
+            "date": "2025-01-08",
+            "begin": "12:00",
+            "end": "14:00",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Język C#",
+            "date": "2025-01-08",
+            "begin": "14:00",
+            "end": "15:30",
+            "group_name": "PO1_J.C#_L_212A",
+            "room": "WI1- 302",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Język C#",
+            "date": "2025-01-10",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "PO1_J.C#_L_212A",
+            "room": "WI1- 317",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Język C#",
+            "date": "2025-01-10",
+            "begin": "12:00",
+            "end": "13:30",
+            "group_name": "PO1_J.C#_L_214B",
+            "room": "WI1- 317",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Automatyczna optymalizacja oprogramowania",
+            "date": "2025-01-11",
+            "begin": "09:40",
+            "end": "11:20",
+            "group_name": "N2_I_PO_3 sem._W",
+            "room": "WI1- 206",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Automatyczna optymalizacja oprogramowania",
+            "date": "2025-01-11",
+            "begin": "11:25",
+            "end": "13:00",
+            "group_name": "N2_I_PO_3 sem._L",
+            "room": "WI1- 304",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Informatyki"
+        }
+    ],
+    "Błażejczak Dariusz": [
+        {
+            "title": "Teledetekcja",
+            "date": "2025-01-07",
+            "begin": "08:00",
+            "end": "10:45",
+            "group_name": "OZE_G_wyk_01S2",
+            "room": "PP1 311",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Kształtowania Środowiska i Rolnictwa"
+        },
+        {
+            "title": "Maszyny i technologie do pozyskiwania biomasy",
+            "date": "2025-01-08",
+            "begin": "12:00",
+            "end": "13:45",
+            "group_name": "OZE_G_aud_02S1",
+            "room": "PP1 110",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Kształtowania Środowiska i Rolnictwa"
+        },
+        {
+            "title": "Elementy geotechniki",
+            "date": "2025-01-09",
+            "begin": "08:00",
+            "end": "09:45",
+            "group_name": "OZE_G_lab_02_S1",
+            "room": "PP3 9",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Kształtowania Środowiska i Rolnictwa"
+        },
+        {
+            "title": "Wytwarzanie i zastosowanie biopaliw stałych",
+            "date": "2025-01-09",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "OZE_G_lab_01-S1",
+            "room": "PP1 Hala maszyn",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Kształtowania Środowiska i Rolnictwa"
+        },
+        {
+            "title": "Wytwarzanie i zastosowanie biopaliw stałych",
+            "date": "2025-01-09",
+            "begin": "12:00",
+            "end": "13:45",
+            "group_name": "OZE_G_lab_02_S1",
+            "room": "PP1 Hala maszyn",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Kształtowania Środowiska i Rolnictwa"
+        },
+        {
+            "title": "Seminarium inżynierskie",
+            "date": "2025-01-11",
+            "begin": "08:00",
+            "end": "10:25",
+            "group_name": "OZE_G_sem_01_N1",
+            "room": "PP3 9",
+            "lesson_status": "seminarium dyplomowe",
+            "wydział": "Wydział Kształtowania Środowiska i Rolnictwa"
+        },
+        {
+            "title": "Komputerowe wspomaganie projektowania",
+            "date": "2025-01-11",
+            "begin": "10:35",
+            "end": "13:00",
+            "group_name": "OZE_G_wyk_01_N1",
+            "room": "PP3 9",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Kształtowania Środowiska i Rolnictwa"
+        }
+    ],
+    "Błońska-Tabero Anna": [
+        {
+            "title": "Chemistry",
+            "date": "2025-01-07",
+            "begin": "08:15",
+            "end": "13:00",
+            "group_name": "G_lab_01 ChE",
+            "room": "NCH 215",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Technologii i Inżynierii Chemicznej"
+        },
+        {
+            "title": "Chemia ogólna i (bio)nieorganiczna",
+            "date": "2025-01-09",
+            "begin": "11:15",
+            "end": "12:00",
+            "group_name": "G_wyk_01 IwM",
+            "room": "NCH Aud I",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Technologii i Inżynierii Chemicznej"
+        }
+    ],
+    "Błyszko Jarosław": [
+        {
+            "title": "Złożone konstrukcje betonowe",
+            "date": "2025-01-08",
+            "begin": "11:15",
+            "end": "12:00",
+            "group_name": "TOB_G_wyk_01",
+            "room": "439",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Złożone konstrukcje betonowe",
+            "date": "2025-01-10",
+            "begin": "16:50",
+            "end": "18:25",
+            "group_name": "G_wyk_01",
+            "room": "_Zaj_zdalne04",
+            "lesson_status": "zajęcia zdalne",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Złożone konstrukcje betonowe",
+            "date": "2025-01-11",
+            "begin": "08:00",
+            "end": "09:35",
+            "group_name": "TOB_G_pro_02",
+            "room": "354",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        },
+        {
+            "title": "Konstrukcje betonowe 2",
+            "date": "2025-01-11",
+            "begin": "10:35",
+            "end": "13:00",
+            "group_name": "KBI_G_wyk_01",
+            "room": "412",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        }
+    ],
+    "Cariow Aleksandr": [
+        {
+            "title": "Konsultacje - Pok. 212 WI2; studia niestacjonarne - pół godz. po zajęciach",
+            "date": "2025-01-09",
+            "begin": "10:30",
+            "end": "12:00",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Komunikacja bezprzewodowa",
+            "date": "2025-01-09",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "31_PO3_Kb_W",
+            "room": "WI2- 121",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Cyfrowe przetwarzanie sygnałów",
+            "date": "2025-01-11",
+            "begin": "11:25",
+            "end": "13:00",
+            "group_name": "N2_I_1 sem._W",
+            "room": "WI2- 227",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Zespołowy projekt badawczy",
+            "date": "2025-01-11",
+            "begin": "13:30",
+            "end": "15:55",
+            "group_name": "N2_I_Zpb_gr.1_P",
+            "room": "WI1- 304",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Informatyki"
+        }
+    ],
+    "Cenkier Zbigniew": [
+        {
+            "title": "Konsultacje - pok. 212 WI2; studia niestacjonarne - pół godz. po zajęciach",
+            "date": "2025-01-09",
+            "begin": "10:03",
+            "end": "12:00",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        }
+    ],
+    "Chady Tomasz": [
+        {
+            "title": "Inteligentne algorytmy analizy w elektrotechnice",
+            "date": "2025-01-07",
+            "begin": "08:15",
+            "end": "09:00",
+            "group_name": "S2 EL sem 2 W",
+            "room": "WE-C 425",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Podstawy elektrotechniki",
+            "date": "2025-01-07",
+            "begin": "10:15",
+            "end": "13:00",
+            "group_name": "S1 EL sem 1 W",
+            "room": "WE-C 301",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Inteligentne algorytmy analizy w elektrotechnice",
+            "date": "2025-01-11",
+            "begin": "08:50",
+            "end": "11:20",
+            "group_name": "N2 EL sem 3 W",
+            "room": "WE-C 301",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Elektryczny"
+        }
+    ],
+    "Charęza Magdalena": [
+        {
+            "title": "Chemia",
+            "date": "2025-01-08",
+            "begin": "10:00",
+            "end": "11:45",
+            "group_name": "LAB 05 KN S1 - sem 1 ",
+            "room": "1IiJM CN 2_34",
+            "lesson_status": "laboratorium",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Chemia",
+            "date": "2025-01-09",
+            "begin": "10:00",
+            "end": "11:45",
+            "group_name": "LAB 04 KN S1 - sem 1 ",
+            "room": "1IiJM CN 2_34",
+            "lesson_status": "laboratorium",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Chemia",
+            "date": "2025-01-09",
+            "begin": "12:00",
+            "end": "13:45",
+            "group_name": "LAB 03 KN S1 - sem 1 ",
+            "room": "1IiJM CN 2_34",
+            "lesson_status": "laboratorium",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Chemia",
+            "date": "2025-01-10",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "LAB 01 KN S1 - sem 1 ",
+            "room": "1IiJM CN 2_34",
+            "lesson_status": "laboratorium",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Chemia",
+            "date": "2025-01-10",
+            "begin": "10:00",
+            "end": "11:45",
+            "group_name": "LAB 02 KN S1 - sem 1 ",
+            "room": "1IiJM CN 2_34",
+            "lesson_status": "laboratorium",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Chemia",
+            "date": "2025-01-11",
+            "begin": "09:40",
+            "end": "11:20",
+            "group_name": "G_lab_02",
+            "room": "1IiJM CN 2_34",
+            "lesson_status": "laboratorium",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Chemia",
+            "date": "2025-01-11",
+            "begin": "11:25",
+            "end": "13:00",
+            "group_name": "G_lab_01",
+            "room": "1IiJM CN 2_34",
+            "lesson_status": "laboratorium",
+            "wydział": "brak danych"
+        }
+    ],
+    "Cheba Katarzyna": [
+        {
+            "title": "Project management tools and techniques (wekon)",
+            "date": "2025-01-08",
+            "begin": "08:15",
+            "end": "09:45",
+            "group_name": "S1_WM_ProjectManagementToolsaW",
+            "room": "Ż 11",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Ekonomiczny"
+        },
+        {
+            "title": "Project management tools and techniques (wekon)",
+            "date": "2025-01-08",
+            "begin": "08:15",
+            "end": "09:45",
+            "group_name": "Er+_zima_1 sem_W",
+            "room": "Ż 11",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Ekonomiczny"
+        },
+        {
+            "title": "Project management tools and techniques (wekon)",
+            "date": "2025-01-08",
+            "begin": "10:00",
+            "end": "11:30",
+            "group_name": "Er+_zima_1 sem_P",
+            "room": "Ż 11",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Ekonomiczny"
+        },
+        {
+            "title": "Project management tools and techniques (wekon)",
+            "date": "2025-01-08",
+            "begin": "10:00",
+            "end": "11:30",
+            "group_name": "S1_WM_ProjectManagementToolsaP",
+            "room": "Ż 11",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Ekonomiczny"
+        },
+        {
+            "title": "Konsultacje - ul. Żołnierska 47, p.205",
+            "date": "2025-01-08",
+            "begin": "11:30",
+            "end": "13:00",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        }
+    ],
+    "Chen Xuecheng": [
+        {
+            "title": "Wprowadzenie do fizyki",
+            "date": "2025-01-08",
+            "begin": "08:15",
+            "end": "12:00",
+            "group_name": "G_lab_02 IwM",
+            "room": "IiJM CN 2_30",
+            "lesson_status": "laboratorium",
+            "wydział": "brak danych"
+        }
+    ],
+    "Chlewicki Wojciech": [
+        {
+            "title": "Podstawy algorytmizacji i programowania",
+            "date": "2025-01-07",
+            "begin": "14:15",
+            "end": "16:00",
+            "group_name": "S1 TI sem 1 W",
+            "room": "WE-C 122",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Inżynieria oprogramowania",
+            "date": "2025-01-08",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "S1 TI sem 5 W",
+            "room": "WE-C 122",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Inżynieria oprogramowania",
+            "date": "2025-01-08",
+            "begin": "14:15",
+            "end": "16:00",
+            "group_name": "S1 TI sem 5 P",
+            "room": "WE-C 308",
+            "lesson_status": "projekt",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Podstawy algorytmizacji i programowania",
+            "date": "2025-01-09",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "S1 AR sem 1 W",
+            "room": "WE-C 301",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Elektryczny"
+        }
+    ],
+    "Chlubek Mateusz": [
+        {
+            "title": "Rysunek techniczny i grafika inżynierska",
+            "date": "2025-01-08",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "G_lab_01",
+            "room": "004",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Architektury"
+        },
+        {
+            "title": "Wspomaganie komputerowe w projektowaniu – modelowanie i wizualizacje 1",
+            "date": "2025-01-08",
+            "begin": "15:15",
+            "end": "18:00",
+            "group_name": "G_lab_01",
+            "room": "326",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Architektury"
+        },
+        {
+            "title": "Technologie informacyjne",
+            "date": "2025-01-09",
+            "begin": "13:15",
+            "end": "15:00",
+            "group_name": "G_lab_01",
+            "room": "004",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Architektury"
+        },
+        {
+            "title": "Rysunek techniczny i grafika inżynierska",
+            "date": "2025-01-10",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "G_lab_02",
+            "room": "004",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Architektury"
+        }
+    ],
+    "Chmielewska-Przybysz Maja": [
+        {
+            "title": "Podstawy zarządzania i marketingu",
+            "date": "2025-01-07",
+            "begin": "11:15",
+            "end": "12:00",
+            "group_name": "S1 LO s.1Ga_Pzim02",
+            "room": "WTM 115",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Innowacyjne techniki i technologie w transporcie",
+            "date": "2025-01-07",
+            "begin": "12:15",
+            "end": "13:00",
+            "group_name": "S2 TR s1ZGa_Ittt01",
+            "room": "WTM 112",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Podstawy zarządzania i marketingu",
+            "date": "2025-01-07",
+            "begin": "13:15",
+            "end": "14:00",
+            "group_name": "S1 LO s.1Ga_Pzim01",
+            "room": "WTM 115",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Ładunkoznawstwo i techniki składowania",
+            "date": "2025-01-07",
+            "begin": "14:15",
+            "end": "16:00",
+            "group_name": "S1 TR s.3Gw_Łits01",
+            "room": "WTM 112",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Bezpieczeństwo w logistyce",
+            "date": "2025-01-08",
+            "begin": "10:15",
+            "end": "11:00",
+            "group_name": "S1 LO s.5G_a_Bwl02",
+            "room": "WTM 117",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Bezpieczeństwo w logistyce",
+            "date": "2025-01-08",
+            "begin": "11:15",
+            "end": "12:00",
+            "group_name": "S1 LO s.5G_a_Bwl01",
+            "room": "WTM 119",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Logistyka zaopatrzenia",
+            "date": "2025-01-08",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "S1 LO s.3 G_a_Lz02",
+            "room": "WTM 117",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Organizacja i technika handlu zagranicznego",
+            "date": "2025-01-08",
+            "begin": "14:15",
+            "end": "15:00",
+            "group_name": "S2 TRs.1ZGa_Othz01",
+            "room": "WTM 115",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Innowacyjne techniki i technologie w transporcie",
+            "date": "2025-01-08",
+            "begin": "15:15",
+            "end": "16:00",
+            "group_name": "S2 TRs.2ZGa_Itt01",
+            "room": "WTM 115",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        },
+        {
+            "title": "Organizacja i technika handlu zagranicznego",
+            "date": "2025-01-08",
+            "begin": "16:15",
+            "end": "17:00",
+            "group_name": "S2 TR s.ZGa_Otz01",
+            "room": "WTM 115",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Techniki Morskiej i Transportu"
+        }
+    ],
+    "Chodźko Marcin": [
+        {
+            "title": "Statystyka",
+            "date": "2025-01-07",
+            "begin": "08:30",
+            "end": "10:00",
+            "group_name": "S1ZP-LA01",
+            "room": "WM 309",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Dynamika układów mechanicznych",
+            "date": "2025-01-07",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "S1MB-WY01",
+            "room": "WM 134",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Statystyka",
+            "date": "2025-01-09",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "S1ZP-WY01",
+            "room": "WM 325",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Statystyka",
+            "date": "2025-01-09",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "S1ZP-LA01",
+            "room": "WM 309",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Statystyka",
+            "date": "2025-01-09",
+            "begin": "14:15",
+            "end": "16:00",
+            "group_name": "S1ZP-LA02",
+            "room": "WM 309",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        }
+    ],
+    "Ciarciński Adam": [
+        {
+            "title": "Konsultacje - P. 115 wi2",
+            "date": "2025-01-10",
+            "begin": "08:45",
+            "end": "10:15",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Systemy operacyjne",
+            "date": "2025-01-10",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "S1_I_L_221A",
+            "room": "WI1- 307",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Systemy operacyjne",
+            "date": "2025-01-10",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "S1_I_L_213A",
+            "room": "WI1- 307",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Systemy operacyjne",
+            "date": "2025-01-10",
+            "begin": "14:15",
+            "end": "16:00",
+            "group_name": "S1_I_L_223B",
+            "room": "WI1- 307",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Informatyki"
+        }
+    ],
+    "Cichowicz Michał": [
+        {
+            "title": "Inżynieryjne narzędzia komputerowe",
+            "date": "2025-01-11",
+            "begin": "08:00",
+            "end": "10:25",
+            "group_name": "N1 EL sem 1 L2",
+            "room": "WE-A 109",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Inżynieryjne narzędzia komputerowe",
+            "date": "2025-01-11",
+            "begin": "10:35",
+            "end": "13:00",
+            "group_name": "N1 EL sem 1 L3",
+            "room": "WE-A 109",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Inżynieryjne narzędzia komputerowe",
+            "date": "2025-01-11",
+            "begin": "13:30",
+            "end": "15:55",
+            "group_name": "N1 EL sem 1 L5",
+            "room": "WE-A 109",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Inżynieryjne narzędzia komputerowe",
+            "date": "2025-01-11",
+            "begin": "16:00",
+            "end": "18:25",
+            "group_name": "N1 EL sem 1 L4",
+            "room": "WE-A 109",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        }
+    ],
+    "Cichoń Katarzyna": [
+        {
+            "title": "Podstawy algorytmizacji i programowania",
+            "date": "2025-01-11",
+            "begin": "08:00",
+            "end": "10:25",
+            "group_name": "N1 EL sem 1 L3",
+            "room": "KTE 26",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Podstawy algorytmizacji i programowania",
+            "date": "2025-01-11",
+            "begin": "10:35",
+            "end": "13:00",
+            "group_name": "N1 EL sem 1 L1",
+            "room": "KTE 26",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Podstawy algorytmizacji i programowania",
+            "date": "2025-01-11",
+            "begin": "13:30",
+            "end": "15:55",
+            "group_name": "N1 EL sem 1 L4",
+            "room": "KTE 26",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        },
+        {
+            "title": "Podstawy algorytmizacji i programowania",
+            "date": "2025-01-11",
+            "begin": "16:00",
+            "end": "18:25",
+            "group_name": "N1 EL sem 1 L5",
+            "room": "KTE 26",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Inżynierii Mechanicznej i Mechatroniki"
+        }
+    ],
+    "Cichoński Jarosław": [
+        {
+            "title": "Systemy operacyjne",
+            "date": "2025-01-08",
+            "begin": "16:15",
+            "end": "18:00",
+            "group_name": "S1_I_L_222A",
+            "room": "WI1- 303",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Konsultacje - p. 102 Wi2",
+            "date": "2025-01-08",
+            "begin": "17:45",
+            "end": "18:30",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        },
+        {
+            "title": "Systemy operacyjne",
+            "date": "2025-01-10",
+            "begin": "14:15",
+            "end": "16:00",
+            "group_name": "S1_I_L_222B",
+            "room": "WI1- 003",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Systemy operacyjne",
+            "date": "2025-01-10",
+            "begin": "16:15",
+            "end": "18:00",
+            "group_name": "S1_I_L_221B",
+            "room": "WI1- 003",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Konsultacje - p. 102 Wi2",
+            "date": "2025-01-10",
+            "begin": "17:45",
+            "end": "18:30",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        }
+    ],
+    "Ciemniak Artur": [
+        {
+            "title": "Analiza instrumentalna związków toksycznych",
+            "date": "2025-01-08",
+            "begin": "08:00",
+            "end": "09:45",
+            "group_name": "S1-s3-M-L-01",
+            "room": "PP 422",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        },
+        {
+            "title": "Toksykologia ogólna",
+            "date": "2025-01-08",
+            "begin": "13:00",
+            "end": "14:45",
+            "group_name": "S1-s1-M-W-01",
+            "room": "KK 118",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Nauk o Żywności i Rybactwa"
+        },
+        {
+            "title": "Konsultacje - ul. PP, pok. 406",
+            "date": "2025-01-09",
+            "begin": "12:00",
+            "end": "13:30",
+            "group_name": "brak danych",
+            "room": "brak danych",
+            "lesson_status": "konsultacje",
+            "wydział": "brak danych"
+        }
+    ],
+    "Ciepłuch Rafał": [
+        {
+            "title": "Geodezja",
+            "date": "2025-01-08",
+            "begin": "13:15",
+            "end": "15:00",
+            "group_name": "G_lab_04",
+            "room": "244",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Budownictwa i Inżynierii Środowiska"
+        }
+    ],
+    "Cierocki Łukasz": [
+        {
+            "title": "Algorytmy 2",
+            "date": "2025-01-07",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "S1_I_L_213B",
+            "room": "WI2- 318",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Podstawy ochrony informacji",
+            "date": "2025-01-07",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "S1_I_L_311",
+            "room": "WI2- 119",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Algorytmy 2",
+            "date": "2025-01-07",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "S1_I_L_222B",
+            "room": "WI2- 119",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Algorytmy 2",
+            "date": "2025-01-07",
+            "begin": "14:15",
+            "end": "16:00",
+            "group_name": "S1_I_L_214B",
+            "room": "WI2- 119",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Algorytmy 2",
+            "date": "2025-01-09",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "S1_I_L_212A",
+            "room": "WI2- 318",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Algorytmy 2",
+            "date": "2025-01-09",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "S1_I_L_214A",
+            "room": "WI2- 318",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Algorytmy 2",
+            "date": "2025-01-09",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "S1_I_L_221B",
+            "room": "WI2- 318",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Algorytmy 2",
+            "date": "2025-01-09",
+            "begin": "14:15",
+            "end": "16:00",
+            "group_name": "S1_I_L_210B",
+            "room": "WI2- 318",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Algorytmy 2",
+            "date": "2025-01-11",
+            "begin": "15:10",
+            "end": "16:45",
+            "group_name": "N1_I_L_20B",
+            "room": "WI2- 323",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Algorytmy 2",
+            "date": "2025-01-11",
+            "begin": "16:50",
+            "end": "18:25",
+            "group_name": "N1_I_L_20C",
+            "room": "WI2- 323",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Informatyki"
+        },
+        {
+            "title": "Algorytmy 2",
+            "date": "2025-01-11",
+            "begin": "18:30",
+            "end": "20:05",
+            "group_name": "powt. Alg. 2_L_gr.1",
+            "room": "WI2- 323",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Informatyki"
+        }
+    ],
+    "Cierzniewski Kamil": [
+        {
+            "title": "Maszyny elektryczne",
+            "date": "2025-01-07",
+            "begin": "09:15",
+            "end": "11:00",
+            "group_name": "S1 EL sem 5 L1a",
+            "room": "WE-A 05",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Maszyny elektryczne",
+            "date": "2025-01-08",
+            "begin": "13:15",
+            "end": "15:00",
+            "group_name": "S1 EL sem 5 L1b",
+            "room": "WE-A 05",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        }
+    ],
+    "Cierzniewski Piotr": [
+        {
+            "title": "Podstawy techniki oświetleniowej",
+            "date": "2025-01-07",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "S1 EL sem 3 L3",
+            "room": "WE-A 109",
+            "lesson_status": "odwołane",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Podstawy techniki oświetleniowej",
+            "date": "2025-01-07",
+            "begin": "16:15",
+            "end": "17:00",
+            "group_name": "S1 EL sem 3 W",
+            "room": "WE-A 209",
+            "lesson_status": "odwołane",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Podstawy techniki oświetleniowej",
+            "date": "2025-01-10",
+            "begin": "08:15",
+            "end": "10:00",
+            "group_name": "S1 EL sem 3 L1",
+            "room": "WE-A 109",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Podstawy techniki oświetleniowej",
+            "date": "2025-01-10",
+            "begin": "10:15",
+            "end": "12:00",
+            "group_name": "S1 EL sem 3 L2",
+            "room": "WE-A 109",
+            "lesson_status": "laboratorium",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Prawo energetyczne i przepisy normatywne",
+            "date": "2025-01-10",
+            "begin": "12:15",
+            "end": "14:00",
+            "group_name": "S1 EL sem 3 A1",
+            "room": "WE-A 209",
+            "lesson_status": "audytoryjne",
+            "wydział": "Wydział Elektryczny"
+        },
+        {
+            "title": "Urządzenia i instalacje niskiego napięcia",
+            "date": "2025-01-10",
+            "begin": "14:15",
+            "end": "16:00",
+            "group_name": "S1 EL sem 1 W",
+            "room": "WE-A 110",
+            "lesson_status": "wykład",
+            "wydział": "Wydział Elektryczny"
+        }
+    ],
+    "Ciesielczyk Dorota": []
+}

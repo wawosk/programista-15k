@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamiczne Filtry</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .filter-group {
+            margin-bottom: 10px;
+        }
+        #results-container {
+            margin-top: 20px;
+        }
+        .result-item {
+            cursor: pointer;
+            padding: 5px;
+            margin: 2px 0;
+            background-color: #f1f1f1;
+        }
+        .result-item:hover {
+            background-color: #d1d1d1;
+        }
+    </style>
+</head>
+<body>
+<h1>Dynamiczne Filtry</h1>
+<form id="filter-form">
+    <div id="filters-container"></div>
+    <button type="button" id="add-filter-btn">Dodaj filtr</button>
+</form>
+<div id="results-container"></div>
+
+<script>
+    const filtersContainer = document.getElementById('filters-container');
+    const addFilterBtn = document.getElementById('add-filter-btn');
+    const filterForm = document.getElementById('filter-form');
+    const resultsContainer = document.getElementById('results-container');
+
+    const filterOptions = [
+        { value: "wykladowca", label: "Wykładowca" },
+        { value: "sala", label: "Sala" },
+        { value: "student", label: "Student" },
+        { value: "przedmiot", label: "Przedmiot" },
+        { value: "grupa", label: "Grupa" },
+        { value: "forma", label: "Forma" },
+        { value: "wydzial", label: "Wydział" } // Nowy element
+    ];
+
+    let lastSelectedKey = ''; // Variable to store the key of the last edited field
+    let lastEditedInput = null; // Store the last input element
+
+    // Function to add a new filter
+    function addFilter() {
+        const filterGroup = document.createElement('div');
+        filterGroup.className = 'filter-group';
+
+        const select = document.createElement('select');
+        select.name = 'filter-type[]';
+        filterOptions.forEach(option => {
+            const opt = document.createElement('option');
+            opt.value = option.value;
+            opt.textContent = option.label;
+            select.appendChild(opt);
+        });
+
+        const input = document.createElement('input');
+        input.type = 'text';
+        input.name = 'filter-value[]';
+        input.placeholder = 'Wpisz wartość';
+
+        // Update the last edited key and input element on input change
+        input.addEventListener('input', () => {
+            lastSelectedKey = select.value;
+            lastEditedInput = input; // Store the last input element
+            sendFilters(); // Send the filters every time a key is pressed
+        });
+
+        // Send JSON when clicking on the input field
+        input.addEventListener('click', () => {
+            lastSelectedKey = select.value; // Update the selected key on click
+            lastEditedInput = input; // Update the last edited input
+            sendFilters(); // Send the filters (even with empty fields)
+        });
+
+        const removeBtn = document.createElement('button');
+        removeBtn.type = 'button';
+        removeBtn.textContent = 'Usuń';
+        removeBtn.addEventListener('click', () => filterGroup.remove());
+
+        filterGroup.appendChild(select);
+        filterGroup.appendChild(input);
+        filterGroup.appendChild(removeBtn);
+        filtersContainer.appendChild(filterGroup);
+    }
+
+    // Add one filter on start
+    addFilter();
+
+    // Handle click on add filter button
+    addFilterBtn.addEventListener('click', addFilter);
+
+    // Function to collect filters and send them
+    function sendFilters() {
+        const filterTypes = Array.from(document.querySelectorAll('select[name="filter-type[]"]'));
+        const filterValues = Array.from(document.querySelectorAll('input[name="filter-value[]"]'));
+
+        const filters = filterTypes.reduce((result, select, index) => {
+            const key = select.value;
+            const value = filterValues[index].value;
+            if (key) {
+                result[key] = value || ""; // Use empty string if value is empty
+            }
+            return result;
+        }, {});
+
+        // Add the last selected key to the JSON with "wybranepole" as key
+        if (lastSelectedKey) {
+            filters['wybranepole'] = lastSelectedKey;
+        }
+
+        // Send the JSON to PHP via fetch
+        fetch('suggestions.php', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(filters)
+        })
+            .then(response => response.json())
+            .then(data => {
+                displayResults(data); // Display clickable results
+            })
+            .catch(error => console.error('Error:', error));
+    }
+
+    // Function to display results in a clickable format
+    function displayResults(data) {
+        // Clear previous results
+        resultsContainer.innerHTML = '';
+
+        // If there are no results
+        if (!data || data.length === 0) {
+            resultsContainer.innerHTML = 'Brak wyników.';
+            return;
+        }
+
+        // Create clickable items for each result
+        data.forEach(item => {
+            // If the item is an object, we want to display the values
+            for (const key in item) {
+                if (item.hasOwnProperty(key)) {
+                    const resultItem = document.createElement('div');
+                    resultItem.classList.add('result-item');
+                    resultItem.textContent = item[key]; // Display the value of the key
+
+                    // Add click event to input the selected value into the last edited filter field
+                    resultItem.addEventListener('click', () => {
+                        if (lastEditedInput) {
+                            lastEditedInput.value = item[key]; // Insert the clicked value into the last edited input
+                        }
+                    });
+
+                    resultsContainer.appendChild(resultItem);
+                }
+            }
+        });
+    }
+</script>
+
+</body>
+</html>

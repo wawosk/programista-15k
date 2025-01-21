@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plan Zajęć</title>
+    
+    <style>
+        body {
+    font-family: Michroma, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    border: none;
+}
+
+header {
+    margin-top: 20px;
+}
+
+.logo img{
+    width: 133px;
+    height: 51px;
+    position: absolute;
+    top: 20px; 
+    left: 20px; 
+    pointer-events: none; 
+    user-select: none; 
+}
+
+.title {
+    font-size: 65px;
+    font-weight: bold;
+    color: #333B84;
+    -webkit-text-stroke: #000000 3px;
+}
+
+h2 {
+    font-size: 36px;
+    color: #333B84;
+}
+
+p {
+    font-size: 24px;
+    color: #333B84;
+}
+
+.input-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.album-input {
+    width: 181px;
+    height: 36px;
+    text-align: center;
+    background-color: #333884;
+    border: 2px solid #008148; 
+    color: white; 
+    border-radius: 25px; 
+    font-size: 20px;
+}
+
+.album-input::placeholder{
+    color: #cccccc;
+}
+
+.send-button {
+    width: 36px;
+    height: 36px;
+    background-color: #333884;
+    border: 2px solid #008148;
+    border-radius: 50px;
+    margin-left: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.send-button img{
+    margin-top: 5px;
+    width: 24px;
+    height: 26px;
+}
+
+.send-button:hover {
+    background-color: #272060;
+}
+
+.favorites {
+    display: inline-block;
+    color: #008148;
+    cursor: pointer;
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+
+.favorites:hover, .history:hover {
+    text-decoration: underline;
+}
+
+.check-plan span{
+    color: #333B84;
+    font-size: 20px;
+}
+
+.history {
+    font-size: 18px;
+    margin-top: 0px;
+    color: #008148;
+}
+
+.additional-info {
+    margin: 0px 80px;
+    padding-bottom: 0px;
+}
+
+.additional-info p {
+    font-size: 20px;
+    color: #000000;
+}
+
+#text-wyliczenie{
+    color: #008148;
+}
+
+.filter-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+    position: relative;
+}
+
+.selected-filters {
+    width: 505px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3f51b5;
+    color: white;
+    font-size: 32px;
+    border: 5px solid #4caf50;
+    border-radius: 20px;
+    margin-bottom: -20px;
+}
+
+.filters {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.burger {
+    min-width: 231px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 12px 21px 12px 12px;
+    gap: 11px;
+    border: none;
+
+    background: #008148;
+}
+
+.filter-section ul {
+    display: none;
+    padding: 0;
+    margin: 0;
+}
+
+.active {
+    transform: rotateX(180deg);
+}
+
+.filter-section ul.active-burger {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+}
+
+.ulBurger li {
+    box-sizing: border-box;
+    width: 231px;
+    display: flex;
+    flex-direction: row;
+    padding: 12px 21px 12px 12px;
+    gap: 11px;
+    border: none;
+    font-family: 'Abel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #FFFFFF;
+    background: #008148;
+}
+
+.buttons {
+    position: absolute;
+    right: 20px;
+    top: 107%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.buttons button {
+    width: 170px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    background-color: #3f51b5;
+    color: white;
+    font-size: 20px;
+    border: 5px solid #4caf50;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.buttons button img {
+    width: 20px;
+    height: 20px;
+}
+
+
+.result-section {
+    text-align: center;
+    margin: 20px;
+}
+
+.result-section h2 {
+    font-size: 28px;
+    color: #333;
+}
+
+.navigation-buttons {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.navigation-buttons button {
+    padding: 10px 20px;
+    margin: 3px;
+    border: none;
+    border-radius: 20px;
+    background-color: #3f51b5;
+    color: white;
+    cursor: pointer;
+    font-size: 10px;
+}
+
+.navigation-buttons button:hover {
+    background-color: #303f9f;
+}
+
+#selected {
+    background-color: #0a1e8f;
+}
+
+#schedule-table {
+    width: 95%;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+#schedule-table th,
+#schedule-table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: center;
+    font-size: 12px;
+}
+
+#schedule-table th {
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+.legend {
+    text-align: center;
+    margin: 20px;
+}
+
+.legend p{
+    font-size: 12px;
+}
+    </style>
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="Pictures/ZUT.png" alt="ZUT">
+        </div>
+        <h1 class="title">Plan</h1>
+    </header>
+    <main>
+        <section class="check-plan">
+            <h2>Sprawdź plan na ten tydzień</h2>
+            <p>TWÓJ NUMER ALBUMU</p>
+            <div class="input-container">
+                <input type="text" placeholder="12345" class="album-input">
+                <button class="send-button">
+                    <img src="Pictures/send-Icon.png" alt="Wyślij">
+                </button>
+            </div>
+            <p class = "favorites">Ulubione widoki</p> <span>★</span>
+            <p class="history">Historia zapytań</p>
+        </section>
+
+        <section class="additional-info">
+            <p>Chcesz sprawdzić informacje o: <span id="text-wyliczenie">wykładowcach, salach, grupach, przedmiotach</span>?</p>
+        </section>
+    </main>
+
+    <h2>Filtry</h2>
+    <div class="filter-section">
+        <div class="selected-filters">
+
+
+        </div>
+        <div class="filters">
+            <button class="burger">
+                <svg width="13" height="8" viewBox="0 0 13 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path
+                        d="M6.74347 7.14938L0.743469 1.21299L1.81847 0.149384L6.74347 5.04691L11.6685 0.174119L12.7435 1.23772L6.74347 7.14938Z"
+                        fill="white" />
+                </svg>
+            </button>
+            <ul class="ulBurger">
+                <li>Numer albumu</li>
+                <li>Wykładowca</li>
+                <li>Przedmiot</li>
+                <li>Grupa</li>
+                <li>Forma zajec</li>
+                <li>Sala</li>
+                <li>Budynek</li>
+            </ul>
+        </div>
+
+        <div class="filters">
+            <button class="burger">
+                <svg width="13" height="8" viewBox="0 0 13 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path
+                        d="M6.74347 7.14938L0.743469 1.21299L1.81847 0.149384L6.74347 5.04691L11.6685 0.174119L12.7435 1.23772L6.74347 7.14938Z"
+                        fill="white" />
+                </svg>
+            </button>
+            <ul class="ulBurger">
+                <li>AI1</li>
+                <li>AI2</li>
+                <li>AI3</li>
+            </ul>
+        </div>
+    </div>
+    <div class="buttons">
+        <button>              
+            Usun
+            <img src="Pictures/delete-icon.png" alt="Delete">
+        </button>
+        <button>               
+            Dodaj
+            <img src="Pictures/add-icon.png" alt="Add">
+        </button>
+        <button>          
+            Wyszukaj
+            <img src="Pictures/send-icon.png" alt="Send">
+        </button>
+    </div>
+    <div class="result-section">
+        <form id="studentNumberForm" action="">
+            <input type="text" />
+            <input type="submit" style="display: none;">
+        </form>
+        <h2>Wynik dopasowania...</h2>
+        <div class="navigation-buttons">
+            <button>★</button>
+            <button>Poprzedni</button>
+            <button>Następny</button>
+
+            <div class="dates">
+                12.1.2025
+            </div>
+
+            <button>Dzień</button>
+            <button id="selected">Tydzień</button>
+            <button>Miesiąc</button>
+        </div>
+        <table id="schedule-table">
+            <tr>
+                <th></th>
+                <th>Pon</th>
+                <th>Wt</th>
+                <th>Śr</th>
+                <th>Czw</th>
+                <th>Pt</th>
+                <th>Sob</th>
+                <th>Ndz</th>
+            </tr>
+            <tr>
+                <td>8:15-10:00</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>10:15-12:00</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>12:15-14:00</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>14:15-16:00</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>16:15-18:00</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>18:15-20:00</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </table>
+    </div>
+    <div class="legend">
+        <p>Legenda: L - laboratorium, W - wykład, A - audytoryjne, Lek - lektorat, P - projekt</p>
+    </div>
+</body>
+</html>
